@@ -1,0 +1,73 @@
+[
+  {
+    "Author": "Aireil, Nuko, YouShu",
+    "Name": "FF Logs Viewer (汉化)",
+    "Description": "在游戏内查看 FF Logs 排名百分比，并在右键菜单中打开玩家日志。布局、样式、统计指标和默认度量等可在设置中自定义。",
+    "Punchline": "在游戏内查看 FF Logs 排名百分比。",
+    "InternalName": "FFLogsViewer",
+      "AssemblyVersion": "2.3.0.1",
+    "RepoUrl": "https://github.com/YouShux/FFLogsViewer",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 13,
+    "IconUrl": "https://raw.githubusercontent.com/YouShux/FFLogsViewer/CN-Ver/res/icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/YouShux/FFLogsViewer/CN-Ver/res/image1.png",
+      "https://raw.githubusercontent.com/YouShux/FFLogsViewer/CN-Ver/res/image2.png"
+    ],
+    "Tags": ["FFLogs"],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/FFLogsViewer/FFLogsViewer.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/FFLogsViewer/FFLogsViewer.zip",
+    "Changelog": "- 2.3.0.1\\n  Default layout update + 7.3 update.",
+    "LastUpdate": 1762543265
+  }
+  ,
+  {
+    "Author": "PunishedPineapple, YouShu",
+    "Name": "Distance (汉化)",
+    "Description": "在游戏内显示到目标/单位的距离，并可显示支持 Boss 的仇恨范围，支持姓名板与多种自定义显示。",
+    "Punchline": "显示目标距离与仇恨范围。",
+    "InternalName": "Distance",
+    "AssemblyVersion": "1.1.3.4",
+    "RepoUrl": "https://github.com/YouShux/Distance",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 13,
+    "IconUrl": "https://raw.githubusercontent.com/YouShux/Distance/main/docs/Images/icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/YouShux/Distance/main/docs/Images/image1.png",
+      "https://raw.githubusercontent.com/YouShux/Distance/main/docs/Images/image2.png"
+    ],
+    "Tags": ["Distance", "Range", "Aggro", "Nameplate"],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Distance/Distance.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Distance/Distance.zip",
+    "Changelog": "- 1.1.3.4\n  初始分发，更新汉化说明与清单。",
+    "LastUpdate": 1762619900
+  }
+  ,
+  {
+    "Author": "Loskh, YouShu",
+    "Name": "StarlightBreaker",
+    "Description": "国服屏蔽词解除：去除聊天过滤，支持自定义白名单/黑名单。",
+    "Punchline": "解除国服屏蔽词。",
+    "InternalName": "StarlightBreaker",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/YouShux/StarlightBreaker",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 13,
+    "IconUrl": "https://raw.githubusercontent.com/YouShux/StarlightBreaker/main/docs/Images/icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/YouShux/StarlightBreaker/main/docs/Images/image1.png",
+      "https://raw.githubusercontent.com/YouShux/StarlightBreaker/main/docs/Images/image2.png"
+    ],
+    "Tags": ["Chat", "Filter", "CN", "Uncensor"],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/StarlightBreaker/StarlightBreaker.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/StarlightBreaker/StarlightBreaker.zip",
+    "Changelog": "- 1.0.0.0\n  初始分发。",
+    "LastUpdate": 1762620500
+  }
+]
