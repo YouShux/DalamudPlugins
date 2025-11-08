@@ -1,0 +1,25 @@
+[
+  {
+    "Author": "Loskh, YouShu",
+    "Name": "StarlightBreaker (汉化)",
+    "Description": "国服屏蔽词解除：去除聊天过滤，支持自定义白名单/黑名单。",
+    "Punchline": "解除国服屏蔽词。",
+    "InternalName": "StarlightBreaker",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/YouShux/StarlightBreaker",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 13,
+    "IconUrl": "https://raw.githubusercontent.com/YouShux/StarlightBreaker/main/docs/Images/icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/YouShux/StarlightBreaker/main/docs/Images/image1.png",
+      "https://raw.githubusercontent.com/YouShux/StarlightBreaker/main/docs/Images/image2.png"
+    ],
+    "Tags": ["Chat", "Filter", "CN", "Uncensor"],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/StarlightBreaker/StarlightBreaker.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/StarlightBreaker/StarlightBreaker.zip",
+    "Changelog": "- 1.0.0.0\n  初始分发。",
+    "LastUpdate": 1762620500
+  }
+]
