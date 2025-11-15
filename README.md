@@ -14,3 +14,4 @@ https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Pluginmaster.json
 | Flash On Tell (汉化) | 收到悄悄话时让 FFXIV 窗口在任务栏闪烁，便于切回游戏。 |
 | BigPlayerDebuffs (汉化) | 在目标状态栏放大由你施加的增益/减益图标，便于观察。 |
 | Tilted (汉化) | 根据条件自动调整第三人称镜头角度与距离，支持战斗、副本、拔刀、骑乘、飞行、镜头靠近等模式。 |
+| Waymark Studio (汉化) | 替代游戏内标点插件，提供草稿/预设/引导/触发器等工具，快速、准确地放置与加载标点预设。 |
