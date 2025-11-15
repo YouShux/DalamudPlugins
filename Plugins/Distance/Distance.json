@@ -1,0 +1,27 @@
+[
+  {
+    "Author": "PunishedPineapple, YouShu",
+    "Name": "Distance (汉化)",
+    "Description": "在游戏内显示到目标/单位的距离，并可显示支持 Boss 的仇恨范围，支持姓名板与多种自定义显示。",
+    "Punchline": "显示目标距离与仇恨范围。",
+    "InternalName": "Distance",
+    "AssemblyVersion": "1.1.3.4",
+    "RepoUrl": "https://github.com/YouShux/Distance",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 13,
+    "IconUrl": "https://raw.githubusercontent.com/YouShux/Distance/main/docs/Images/icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/YouShux/Distance/main/docs/Images/image1.png",
+      "https://raw.githubusercontent.com/YouShux/Distance/main/docs/Images/image2.png"
+    ],
+    "Tags": ["Distance", "Range", "Aggro", "Nameplate"],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Distance/Distance.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Distance/Distance.zip",
+    "Changelog": "- 1.1.3.4 \n 7.38版本",
+    "LastUpdate": 1762619900
+  }
+
+]
+
