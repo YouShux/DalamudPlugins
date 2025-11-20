@@ -1,0 +1,26 @@
+[
+  {
+    "Author": "electr0sheep, Nuko, YouShu",
+    "Name": "Item Vendor Location (汉化)",
+    "Description": "为可在商店购买的物品提供售卖位置查询，在物品右键菜单中显示所有可能的商店与坐标，支持聊天命令快速查询",
+    "Punchline": "快速查询物品售卖位置（仅支持在线安装）",
+    "InternalName": "ItemVendorLocation",
+    "AssemblyVersion": "2.11.0.2",
+    "RepoUrl": "https://github.com/YouShux/ItemVendorLocation",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 13,
+    "IconUrl": "https://raw.githubusercontent.com/YouShux/ItemVendorLocation/main/Images/icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/YouShux/ItemVendorLocation/main/Images/ContextMenu.png",
+      "https://raw.githubusercontent.com/YouShux/ItemVendorLocation/main/Images/VendorLocations.png",
+      "https://raw.githubusercontent.com/YouShux/ItemVendorLocation/main/Images/SpecialVendor.png"
+    ],
+    "Tags": ["Vendor", "Item", "Shop", "ContextMenu", "Chat"],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/ItemVendorLocation/ItemVendorLocation.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/ItemVendorLocation/ItemVendorLocation.zip",
+    "Changelog": "- 2.11.0.2\n 7.38版本",
+    "LastUpdate": 1763649904
+  }
+]

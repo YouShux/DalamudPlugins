@@ -1,0 +1,25 @@
+[
+  {
+    "Author": "Infi, PunishedPineapple, YouShu",
+    "Name": "Waymark Preset Plugin (汉化)",
+    "Description": "保存、编辑、放置、导入、导出与预览无限数量的场标预设，支持与游戏场标窗口联动与分类管理",
+    "Punchline": "场标预设管理（仅支持在线安装）",
+    "InternalName": "WaymarkPresetPlugin",
+    "AssemblyVersion": "1.5.5.1",
+    "RepoUrl": "https://github.com/Infiziert90/WaymarkPresetPlugin",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 13,
+    "IconUrl": "https://raw.githubusercontent.com/Infiziert90/WaymarkPresetPlugin/master/docs/Images/icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/Infiziert90/WaymarkPresetPlugin/master/docs/Images/image1.png",
+      "https://raw.githubusercontent.com/Infiziert90/WaymarkPresetPlugin/master/docs/Images/image2.png"
+    ],
+    "Tags": ["Waymark", "Marker", "Preset", "Tool"],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/WaymarkPresetPlugin/WaymarkPresetPlugin.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/WaymarkPresetPlugin/WaymarkPresetPlugin.zip",
+    "Changelog": "- 1.5.5.1\n 7.38版本",
+    "LastUpdate": 1763649000
+  }
+]
