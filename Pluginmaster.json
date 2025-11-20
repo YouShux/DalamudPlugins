@@ -2,7 +2,7 @@
   {
     "Author": "Aireil, Nuko, YouShu",
     "Name": "FF Logs Viewer (汉化)",
-    "Description": "在游戏内查看 FF Logs 排名百分比，并在右键菜单中打开玩家日志。布局、样式、统计指标和默认度量等可在设置中自定义。",
+    "Description": "在游戏内查看 FF Logs 排名百分比，并在右键菜单中打开玩家日志。布局、样式、统计指标和默认度量等可在设置中自定义（仅支持在线安装）",
     "Punchline": "在游戏内查看 FF Logs 排名百分比。",
     "InternalName": "FFLogsViewer",
       "AssemblyVersion": "2.3.0.1",
@@ -26,7 +26,7 @@
   {
     "Author": "PunishedPineapple, YouShu",
     "Name": "Distance (汉化)",
-    "Description": "在游戏内显示到目标/单位的距离，并可显示支持 Boss 的仇恨范围，支持姓名板与多种自定义显示。",
+    "Description": "在游戏内显示到目标/单位的距离，并可显示支持 Boss 的仇恨范围，支持姓名板与多种自定义显示（仅支持在线安装）",
     "Punchline": "显示目标距离与仇恨范围。",
     "InternalName": "Distance",
     "AssemblyVersion": "1.1.3.4",
@@ -50,7 +50,7 @@
   {
     "Author": "Loskh, YouShu",
     "Name": "StarlightBreaker (汉化)",
-    "Description": "国服屏蔽词解除：去除聊天过滤，保持原生交流，支持自定义白名单/黑名单。",
+    "Description": "国服屏蔽词解除：去除聊天过滤，保持原生交流，支持自定义白名单/黑名单（仅支持在线安装）",
     "Punchline": "解除国服屏蔽词。",
     "InternalName": "StarlightBreaker",
     "AssemblyVersion": "1.0.0.0",
@@ -74,7 +74,7 @@
   {
     "Author": "electr0sheep, Nuko, YouShu",
     "Name": "Item Vendor Location (汉化)",
-    "Description": "为可在商店购买的物品提供售卖位置查询，在物品右键菜单中显示所有可能的商店与坐标，支持聊天命令快速查询。",
+    "Description": "为可在商店购买的物品提供售卖位置查询，在物品右键菜单中显示所有可能的商店与坐标，支持聊天命令快速查询（仅支持在线安装）",
     "Punchline": "快速查询物品售卖位置。",
     "InternalName": "ItemVendorLocation",
     "AssemblyVersion": "2.11.0.0",
@@ -99,7 +99,7 @@
   {
     "Author": "Felys, aers, YouShu",
     "Name": "Enemy List Debuffs (汉化)",
-    "Description": "在仇恨列表显示你的减益图标与倒计时，便于多目标场景追踪 DoT，支持自定义位置、尺寸与颜色。",
+    "Description": "在仇恨列表显示你的减益图标与倒计时，便于多目标场景追踪 DoT，支持自定义位置、尺寸与颜色（仅支持在线安装）",
     "Punchline": "在仇恨列表显示减益与剩余时间。",
     "InternalName": "EnemyListDebuffs",
     "AssemblyVersion": "1.13.0.0",
@@ -122,7 +122,7 @@
   {
     "Author": "Franz, YouShu",
     "Name": "Flash On Tell (汉化)",
-    "Description": "收到悄悄话时让 FFXIV 窗口在任务栏闪烁，便于切回游戏；当前无设置项。",
+    "Description": "收到悄悄话时让 FFXIV 窗口在任务栏闪烁，便于切回游戏；当前无设置项（仅支持在线安装）",
     "Punchline": "收到 /tell 时闪烁任务栏图标。",
     "InternalName": "FlashOnTell",
     "AssemblyVersion": "0.0.9.0",
@@ -145,7 +145,7 @@
   {
     "Author": "d87, YouShu",
     "Name": "BigPlayerDebuffs (汉化)",
-    "Description": "在目标状态栏放大由你施加的增益/减益图标，便于观察。",
+    "Description": "在目标状态栏放大由你施加的增益/减益图标，便于观察（仅支持在线安装）",
     "Punchline": "放大自己施加的增益/减益图标。",
     "InternalName": "BigPlayerDebuffs",
     "AssemblyVersion": "1.1.0.13",
@@ -167,7 +167,7 @@
   {
     "Author": "Meoiswa, YouShu",
     "Name": "Tilted (汉化)",
-    "Description": "根据条件自动调整第三人称镜头角度与距离，支持战斗/副本/拔刀/骑乘/飞行/镜头靠近等模式。",
+    "Description": "根据条件自动调整第三人称镜头角度与距离，支持战斗/副本/拔刀/骑乘/飞行/镜头靠近等模式（仅支持在线安装）",
     "Punchline": "镜头角度与距离自动调整",
     "InternalName": "Tilted",
     "AssemblyVersion": "4.3.0.1",
@@ -185,5 +185,30 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Tilted/Tilted.zip",
     "Changelog": "- 4.3.0.1\n 7.38版本",
     "LastUpdate": 1762669900
+  }
+  ,
+  {
+    "Author": "Infi, PunishedPineapple, YouShu",
+    "Name": "Waymark Preset Plugin (汉化)",
+    "Description": "保存/编辑/放置/导入/导出与预览无限数量的场标预设，支持与游戏窗口联动（仅支持在线安装）",
+    "Punchline": "场标预设管理",
+    "InternalName": "WaymarkPresetPlugin",
+    "AssemblyVersion": "1.5.5.0",
+    "RepoUrl": "https://github.com/Infiziert90/WaymarkPresetPlugin",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 13,
+    "IconUrl": "https://raw.githubusercontent.com/Infiziert90/WaymarkPresetPlugin/master/docs/Images/icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/Infiziert90/WaymarkPresetPlugin/master/docs/Images/image1.png",
+      "https://raw.githubusercontent.com/Infiziert90/WaymarkPresetPlugin/master/docs/Images/image2.png",
+      "https://raw.githubusercontent.com/Infiziert90/WaymarkPresetPlugin/master/docs/Images/image3.png"
+    ],
+    "Tags": ["Waymark", "Marker", "Preset", "Tool"],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/WaymarkPresetPlugin/WaymarkPresetPlugin.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/WaymarkPresetPlugin/WaymarkPresetPlugin.zip",
+    "Changelog": "- 1.5.5.0\n 7.38版本",
+    "LastUpdate": 1763649000
   }
 ]

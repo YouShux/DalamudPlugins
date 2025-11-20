@@ -1,0 +1,24 @@
+[
+  {
+    "Author": "Franz, YouShu",
+    "Name": "Flash On Tell (汉化)",
+    "Description": "收到悄悄话时让 FFXIV 窗口在任务栏闪烁，便于切回游戏；当前无设置项（仅支持在线安装）",
+    "Punchline": "收到 /tell 时闪烁任务栏图标。",
+    "InternalName": "FlashOnTell",
+    "AssemblyVersion": "0.0.9.1",
+    "RepoUrl": "https://github.com/YouShux/Dalamud-FlashOnTellPlugin",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 13,
+    "IconUrl": "https://raw.githubusercontent.com/YouShux/Dalamud-FlashOnTellPlugin/main/images/icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/YouShux/Dalamud-FlashOnTellPlugin/main/images/icon.png"
+    ],
+    "Tags": ["Chat", "Tell", "Notification", "Taskbar"],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/FlashOnTell/FlashOnTell.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/FlashOnTell/FlashOnTell.zip",
+    "Changelog": "- 0.0.9.1\n 7.38版本",
+    "LastUpdate": 1763649906
+  }
+]

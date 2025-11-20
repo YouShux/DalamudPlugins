@@ -1,0 +1,24 @@
+[
+  {
+    "Author": "Meoiswa, YouShu",
+    "Name": "Tilted (汉化)",
+    "Description": "根据条件自动调整第三人称镜头角度与距离，支持战斗/副本/拔刀/骑乘/飞行/镜头靠近等模式（仅支持在线安装）",
+    "Punchline": "镜头角度与距离自动调整",
+    "InternalName": "Tilted",
+    "AssemblyVersion": "4.3.0.2",
+    "RepoUrl": "https://github.com/YouShux/TiltedPlugin",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 13,
+    "IconUrl": "https://raw.githubusercontent.com/YouShux/TiltedPlugin/main/images/icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/YouShux/TiltedPlugin/main/images/icon.png"
+    ],
+    "Tags": ["UI", "tweak", "camera", "combat"],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Tilted/Tilted.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Tilted/Tilted.zip",
+    "Changelog": "- 4.3.0.2\n 7.38版本",
+    "LastUpdate": 1763649908
+  }
+]
