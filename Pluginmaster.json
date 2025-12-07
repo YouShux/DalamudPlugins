@@ -77,7 +77,7 @@
     "Description": "为可在商店购买的物品提供售卖位置查询，在物品右键菜单中显示所有可能的商店与坐标，支持聊天命令快速查询",
     "Punchline": "快速查询物品售卖位置（仅支持在线安装）",
     "InternalName": "ItemVendorLocation",
-    "AssemblyVersion": "2.11.0.1",
+    "AssemblyVersion": "2.11.0.3",
     "RepoUrl": "https://github.com/YouShux/ItemVendorLocation",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
@@ -92,7 +92,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/ItemVendorLocation/ItemVendorLocation.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/ItemVendorLocation/ItemVendorLocation.zip",
-    "Changelog": "- 2.11.0.1\n 7.38版本",
+    "Changelog": "- 2.11.0.3\n 7.38版本",
     "LastUpdate": 1762621500
   }
   ,
