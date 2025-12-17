@@ -1,4 +1,10 @@
+## 卫月库连接
+
 https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Pluginmaster.json
+
+## 反馈频道
+
+https://discord.com/channels/1191648233454313482/1359224734704996493
 
 # 树树维护的卫月插件库
 
