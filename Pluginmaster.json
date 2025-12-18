@@ -238,7 +238,7 @@
   {
     "Author": "Infi, attick, YouShu",
     "Name": "Mouseover Action (汉化)",
-    "Description": "让你像宏一样对鼠标悬停目标施放技能，并且不会出现宏的卡顿和丢指令。\n输入 /mo 打开设置。",
+    "Description": "让你像宏一样对鼠标目标施放技能，并且不会出现宏的卡顿和丢指令。\n输入 /mo 打开设置。",
     "Punchline": "鼠标指哪打哪（仅支持在线安装）",
     "InternalName": "MOAction",
     "AssemblyVersion": "4.9.0.0",
@@ -250,8 +250,8 @@
     "Tags": ["Mouseover", "Macro"],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Mouseover Action/Mouseover Action.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Mouseover Action/Mouseover Action.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Mouseover%20Action/Mouseover%20Action.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Mouseover%20Action/Mouseover%20Action.zip",
     "Changelog": "\n 7.4版本",
     "LastUpdate": 20251219
   }
