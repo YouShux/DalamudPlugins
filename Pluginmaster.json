@@ -1,0 +1,258 @@
+[
+  {
+    "Author": "Aireil, Nuko, YouShu",
+    "Name": "FF Logs Viewer (汉化)",
+    "Description": "在游戏内查看 FF Logs 排名百分比，支持右键搜索",
+    "Punchline": "在游戏内查看 FF Logs 排名百分比（仅支持在线安装）",
+    "InternalName": "FFLogsViewer",
+    "AssemblyVersion": "2.3.0.4",
+    "RepoUrl": "https://github.com/YouShux/FFLogsViewer",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "IconUrl": "https://raw.githubusercontent.com/YouShux/FFLogsViewer/CN-Ver/res/icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/YouShux/FFLogsViewer/CN-Ver/res/image1.png",
+      "https://raw.githubusercontent.com/YouShux/FFLogsViewer/CN-Ver/res/image2.png"
+    ],
+    "Tags": ["FFLogs"],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/FFLogsViewer/FFLogsViewer.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/FFLogsViewer/FFLogsViewer.zip",
+    "Changelog": "\n 7.4版本",
+    "LastUpdate": 20251218
+  }
+  ,
+  {
+    "Author": "PunishedPineapple, YouShu",
+    "Name": "Distance (汉化)",
+    "Description": "在游戏内显示到目标/单位的距离，并可显示支持 Boss 的仇恨范围，支持姓名板与多种自定义显示",
+    "Punchline": "显示目标距离与仇恨范围（仅支持在线安装）",
+    "InternalName": "Distance",
+    "AssemblyVersion": "1.1.4.0",
+    "RepoUrl": "https://github.com/YouShux/Distance",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "IconUrl": "https://raw.githubusercontent.com/YouShux/Distance/main/docs/Images/icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/YouShux/Distance/main/docs/Images/image1.png",
+      "https://raw.githubusercontent.com/YouShux/Distance/main/docs/Images/image2.png"
+    ],
+    "Tags": ["Distance", "Range", "Aggro", "Nameplate"],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Distance/Distance.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Distance/Distance.zip",
+    "Changelog": "\n 7.4版本",
+    "LastUpdate": 20251218
+  }
+  ,
+  {
+    "Author": "Loskh, YouShu",
+    "Name": "StarlightBreaker (汉化)",
+    "Description": "解除国服屏蔽词限制，保持原生交流",
+    "Punchline": "解除国服屏蔽词限制，保持原生交流（仅支持在线安装）",
+    "InternalName": "StarlightBreaker",
+    "AssemblyVersion": "1.0.0.4",
+    "RepoUrl": "https://github.com/YouShux/StarlightBreaker",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "IconUrl": "https://raw.githubusercontent.com/YouShux/StarlightBreaker/main/docs/Images/icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/YouShux/StarlightBreaker/main/docs/Images/image1.png",
+      "https://raw.githubusercontent.com/YouShux/StarlightBreaker/main/docs/Images/image2.png"
+    ],
+    "Tags": ["Chat", "Filter", "CN", "Uncensor"],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/StarlightBreaker/StarlightBreaker.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/StarlightBreaker/StarlightBreaker.zip",
+    "Changelog": "\n 7.4版本",
+    "LastUpdate": 20251218
+  }
+  ,
+  {
+    "Author": "electr0sheep, Nuko, YouShu",
+    "Name": "Item Vendor Location (汉化)",
+    "Description": "查找物品的商店售卖位置，右键菜单显示所有可能商店与坐标，支持聊天命令快速查询",
+    "Punchline": "快速查询物品的商店售卖位置（仅支持在线安装）",
+    "InternalName": "ItemVendorLocation",
+    "AssemblyVersion": "2.11.1.0",
+    "RepoUrl": "https://github.com/YouShux/ItemVendorLocation",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "IconUrl": "https://raw.githubusercontent.com/YouShux/ItemVendorLocation/main/Images/icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/YouShux/ItemVendorLocation/main/Images/ContextMenu.png",
+      "https://raw.githubusercontent.com/YouShux/ItemVendorLocation/main/Images/VendorLocations.png",
+      "https://raw.githubusercontent.com/YouShux/ItemVendorLocation/main/Images/SpecialVendor.png"
+    ],
+    "Tags": ["Vendor", "Item", "Shop", "ContextMenu", "Chat"],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/ItemVendorLocation/ItemVendorLocation.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/ItemVendorLocation/ItemVendorLocation.zip",
+    "Changelog": "\n 7.4版本",
+    "LastUpdate": 20251218
+  }
+  ,
+  {
+    "Author": "Felys, aers, YouShu",
+    "Name": "Enemy List Debuffs (汉化)",
+    "Description": "在仇恨列表显示你的DOT剩余时间，便于多目标场景追踪DOT",
+    "Punchline": "在仇恨列表显示你的DOT剩余时间（仅支持在线安装）",
+    "InternalName": "EnemyListDebuffs",
+    "AssemblyVersion": "1.14.0.0",
+    "RepoUrl": "https://github.com/YouShux/EnemyListDebuffs",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "IconUrl": "https://raw.githubusercontent.com/YouShux/EnemyListDebuffs/main/images/icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/YouShux/EnemyListDebuffs/main/images/icon.png"
+    ],
+    "Tags": ["Debuff", "DOT", "Enmity", "EnemyList"],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/EnemyListDebuffs/EnemyListDebuffs.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/EnemyListDebuffs/EnemyListDebuffs.zip",
+    "Changelog": "\n 7.4版本",
+    "LastUpdate": 20251218
+  }
+  ,
+  {
+    "Author": "Franz, YouShu",
+    "Name": "Flash On Tell (汉化)",
+    "Description": "收到悄悄话时让 FFXIV 窗口在任务栏闪烁",
+    "Punchline": "收到 /tell 时闪烁任务栏图标（仅支持在线安装）",
+    "InternalName": "FlashOnTell",
+    "AssemblyVersion": "0.0.9.4",
+    "RepoUrl": "https://github.com/YouShux/Dalamud-FlashOnTellPlugin",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "IconUrl": "https://raw.githubusercontent.com/YouShux/Dalamud-FlashOnTellPlugin/main/images/icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/YouShux/Dalamud-FlashOnTellPlugin/main/images/icon.png"
+    ],
+    "Tags": ["Chat", "Tell", "Notification", "Taskbar"],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/FlashOnTell/FlashOnTell.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/FlashOnTell/FlashOnTell.zip",
+    "Changelog": "\n 7.4版本",
+    "LastUpdate": 20251218
+  }
+  ,
+  {
+    "Author": "d87, YouShu",
+    "Name": "BigPlayerDebuffs (汉化)",
+    "Description": "在目标状态栏放大由你施加的增益/减益图标，便于观察",
+    "Punchline": "放大自己施加的增益/减益图标（仅支持在线安装）",
+    "InternalName": "BigPlayerDebuffs",
+    "AssemblyVersion": "1.1.1.0",
+    "RepoUrl": "https://github.com/YouShux/BigPlayerDebuffs",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "IconUrl": "https://raw.githubusercontent.com/rgd87/BigPlayerDebuffs/master/images/icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/rgd87/BigPlayerDebuffs/master/images/image1.png"
+    ],
+    "Tags": ["Buff", "Debuff", "Scale", "Interface"],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/BigPlayerDebuffs/BigPlayerDebuffs.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/BigPlayerDebuffs/BigPlayerDebuffs.zip",
+    "Changelog": "\n 7.4版本",
+    "LastUpdate": 20251218
+  },
+  {
+    "Author": "Meoiswa, YouShu",
+    "Name": "Tilted (汉化)",
+    "Description": "根据条件自动调整第三人称镜头角度与距离，支持战斗、副本、拔刀、骑乘、飞行、镜头靠近等模式（仅支持在线安装）",
+    "Punchline": "镜头角度与距离自动调整（仅支持在线安装）",
+    "InternalName": "Tilted",
+    "AssemblyVersion": "4.3.0.5",
+    "RepoUrl": "https://github.com/YouShux/TiltedPlugin",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "IconUrl": "https://raw.githubusercontent.com/YouShux/TiltedPlugin/main/images/icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/YouShux/TiltedPlugin/main/images/icon.png"
+    ],
+    "Tags": ["UI", "tweak", "camera", "combat"],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Tilted/Tilted.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Tilted/Tilted.zip",
+    "Changelog": "\n 7.4版本",
+    "LastUpdate": 20251218
+  }
+  ,
+  {
+    "Author": "Infi, PunishedPineapple, YouShu",
+    "Name": "Waymark Preset Plugin (汉化)",
+    "Description": "保存、编辑、放置、导入、导出与预览无限数量的场标预设，支持与游戏原生场标窗口联动与分类管理",
+    "Punchline": "场标预设管理（仅支持在线安装）",
+    "InternalName": "WaymarkPresetPlugin",
+    "AssemblyVersion": "1.5.5.4",
+    "RepoUrl": "https://github.com/Infiziert90/WaymarkPresetPlugin",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "IconUrl": "https://raw.githubusercontent.com/Infiziert90/WaymarkPresetPlugin/master/docs/Images/icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/Infiziert90/WaymarkPresetPlugin/master/docs/Images/image1.png",
+      "https://raw.githubusercontent.com/Infiziert90/WaymarkPresetPlugin/master/docs/Images/image2.png",
+      "https://raw.githubusercontent.com/Infiziert90/WaymarkPresetPlugin/master/docs/Images/image3.png"
+    ],
+    "Tags": ["Waymark", "Marker", "Preset", "Tool"],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/WaymarkPresetPlugin/WaymarkPresetPlugin.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/WaymarkPresetPlugin/WaymarkPresetPlugin.zip",
+    "Changelog": "\n 7.4版本",
+    "LastUpdate": 20251218
+  },
+  {
+    "Author": "Xorus, YouShu",
+    "Name": "EngageTimer (汉化)",
+    "Description": "倒计时开始时，把每个数字都完整的显示出来。\n自带精准的开怪计时，进入战斗就自动开始。\n\n功能：\n- 大号倒计时（显示全部数字）\n- 可自定义数字贴图（默认/黄色/WoW 风格/自定义文件）\n- 服务器信息栏与悬浮窗显示战斗时间\n- 提供 OBS 浏览器源页面：倒计时 + 当前战斗时长\n\n需要反馈、报错或改进建议都欢迎丢过来。紧急问题优先发 GitHub 或 XIVLauncher Discord 支持帖。",
+    "Punchline": "完整倒计时 / 开怪计时 / OBS 叠加（仅支持在线安装）",
+    "InternalName": "EngageTimer",
+    "AssemblyVersion": "2.4.5.0",
+    "RepoUrl": "https://github.com/xorus/EngageTimer",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "IconUrl": "https://raw.githubusercontent.com/xorus/EngageTimer/main/images/icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/xorus/EngageTimer/main/images/image1.png",
+      "https://raw.githubusercontent.com/xorus/EngageTimer/main/images/image2.png",
+      "https://raw.githubusercontent.com/xorus/EngageTimer/main/images/image3.png"
+    ],
+    "Tags": ["countdown", "pull timer", "stopwatch", "OBS", "overlay", "streaming", "combat"],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/EngageTimer/EngageTimer.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/EngageTimer/EngageTimer.zip",
+    "Changelog": "\n 7.4版本",
+    "LastUpdate": 20251219
+  },
+  {
+    "Author": "Infi, attick, YouShu",
+    "Name": "Mouseover Action (汉化)",
+    "Description": "让你像宏一样对鼠标悬停目标施放技能，并且不会出现宏的卡顿和丢指令。\n输入 /mo 打开设置。",
+    "Punchline": "鼠标指哪打哪（仅支持在线安装）",
+    "InternalName": "MOAction",
+    "AssemblyVersion": "4.9.0.0",
+    "RepoUrl": "https://github.com/Infiziert90/MOActionPlugin",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "IconUrl": "",
+    "ImageUrls": [],
+    "Tags": ["Mouseover", "Macro"],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Mouseover Action/Mouseover Action.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Mouseover Action/Mouseover Action.zip",
+    "Changelog": "\n 7.4版本",
+    "LastUpdate": 20251219
+  }
+]
