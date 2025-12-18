@@ -1,5 +1,5 @@
 # 树树维护的卫月插件库
-## 卫月库连接
+## 卫月库链接
 https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Pluginmaster.json
 
 ## 反馈频道
