@@ -167,7 +167,7 @@
   {
     "Author": "Meoiswa, YouShu",
     "Name": "Tilted (汉化)",
-    "Description": "根据条件自动调整第三人称镜头角度与距离，支持战斗、副本、拔刀、骑乘、飞行、镜头靠近等模式（仅支持在线安装）",
+    "Description": "根据条件自动调整第三人称镜头角度与距离，支持战斗、副本、拔刀、骑乘、飞行、镜头靠近等模式",
     "Punchline": "镜头角度与距离自动调整（仅支持在线安装）",
     "InternalName": "Tilted",
     "AssemblyVersion": "4.3.0.4",
