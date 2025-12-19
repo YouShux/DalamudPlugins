@@ -1,0 +1,25 @@
+[
+  {
+    "Author": "Aireil, Nuko, YouShu",
+    "Name": "FF Logs Viewer (汉化)",
+    "Description": "在游戏内查看 FF Logs 排名百分比，支持右键搜索",
+    "Punchline": "在游戏内查看 FF Logs 排名百分比（仅支持在线安装）",
+    "InternalName": "FFLogsViewer",
+    "AssemblyVersion": "2.3.0.4",
+    "RepoUrl": "https://github.com/YouShux/FFLogsViewer",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "IconUrl": "https://raw.githubusercontent.com/YouShux/FFLogsViewer/CN-Ver/res/icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/YouShux/FFLogsViewer/CN-Ver/res/image1.png",
+      "https://raw.githubusercontent.com/YouShux/FFLogsViewer/CN-Ver/res/image2.png"
+    ],
+    "Tags": ["FFLogs"],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/FFLogsViewer/FFLogsViewer.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/FFLogsViewer/FFLogsViewer.zip",
+    "Changelog": "\n 7.4版本",
+    "LastUpdate": 20251218
+  }
+]
