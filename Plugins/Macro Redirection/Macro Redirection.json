@@ -14,6 +14,6 @@
   ],
   "ApplicableVersion": "any",
   "DalamudApiLevel": 14,
-  "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/YouShux/Distance/main/docs/Images/icon.png"
+  "LoadPriority": 0，
+  "IconUrl": "https://github.com/YouShux/Macro-Redirection/blob/main/Resources/cursor_hr1.png",
 }
