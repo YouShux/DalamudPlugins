@@ -14,8 +14,8 @@
     "Tags": ["Mouseover", "Macro", "Target", "IPC", "Combat"],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/Macro%20Redirection.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/Macro%20Redirection.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/MacroRedirection.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/MacroRedirection.zip",
     "Changelog": "\n 7.4版本",
     "LastUpdate": 20251220
   },
