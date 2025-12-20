@@ -9,7 +9,7 @@
     "RepoUrl": "https://github.com/YouShux/MacroRedirection",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "IconUrl": "https://github.com/YouShux/Macro-Redirection/blob/main/Resources/cursor_hr1.png",
+    "IconUrl": "https://github.com/YouShux/DalamudPlugins/blob/main/Plugins/Macro%20Redirection/cursor_hr1.png",
     "ImageUrls": [],
     "Tags": ["Mouseover", "Macro", "Target", "IPC", "Combat"],
     "IsHide": false,
