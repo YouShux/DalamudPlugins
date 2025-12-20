@@ -15,5 +15,5 @@
   "ApplicableVersion": "any",
   "DalamudApiLevel": 14,
   "LoadPriority": 0,
-  "IconUrl": "https://github.com/YouShux/Macro-Redirection/blob/main/Resources/cursor_hr1.png",
+  "IconUrl": "https://github.com/YouShux/DalamudPlugins/blob/main/Plugins/Macro%20Redirection/cursor_hr1.png",
 }
