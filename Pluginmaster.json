@@ -5,7 +5,7 @@
     "Description": "重定向所有职业的施法目标，避免卡宏，支持列表、场景、鼠标指向、准星、焦点目标等优先级。",
     "Punchline": "重定向技能施法目标，鼠标指哪打哪！（仅支持在线安装）",
     "InternalName": "MacroRedirection",
-    "AssemblyVersion": "1.0.0.2",
+    "AssemblyVersion": "1.0.0.3",
     "RepoUrl": "https://github.com/YouShux/Macro-Redirection",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
@@ -16,7 +16,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/Macro%20Redirection.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/Macro%20Redirection.zip",
-    "Changelog": "补充占星的发卡技能！",
+    "Changelog": "修复自带的预设无法导入的问题！",
     
     "LastUpdate": 20251220
   },
