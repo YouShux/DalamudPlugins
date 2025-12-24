@@ -26,7 +26,7 @@
     "Description": "支持物品价格查询（跨服/税后）、商店购买与兑换位置查找（含坐标与传送）、库存追踪（背包/雇员/陆行鸟）、\n食物/药品期望计算、物品监控预警（弹窗/聊天），以及坐骑/宠物/发型/绘画作品的即时预览等等。",
     "Punchline": "物品价格查询、库存查询、商店兑换位置、传送、解锁预览图片等功能。（仅支持在线安装）",
     "InternalName": "OmniToolbox",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.0.1",
     "RepoUrl": "https://github.com/YouShux/OmniToolbox",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
