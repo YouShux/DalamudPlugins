@@ -1,0 +1,24 @@
+[
+  {
+    "Author": "Felys, aers, YouShu",
+    "Name": "Enemy List Debuffs (汉化)",
+    "Description": "在仇恨列表显示你的DOT剩余时间，便于多目标场景追踪 DOT",
+    "Punchline": "在仇恨列表显示你的DOT剩余时间（仅支持在线安装）",
+    "InternalName": "EnemyListDebuffs",
+    "AssemblyVersion": "1.14.0.0",
+    "RepoUrl": "https://github.com/YouShux/EnemyListDebuffs",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "IconUrl": "https://raw.githubusercontent.com/YouShux/EnemyListDebuffs/main/images/icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/YouShux/EnemyListDebuffs/main/images/icon.png"
+    ],
+    "Tags": ["Debuff", "DOT", "Enmity", "EnemyList"],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/EnemyListDebuffs/EnemyListDebuffs.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/EnemyListDebuffs/EnemyListDebuffs.zip",
+    "Changelog": "\n 7.4版本",
+    "LastUpdate": 20251218
+  }
+]
