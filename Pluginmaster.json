@@ -21,6 +21,33 @@
     "LastUpdate": 20251220
   },
   {
+    "Author": "YouShu",
+    "Name": "Omni Toolbox",
+    "Description": "支持物品价格查询（跨服/税后）、商店购买与兑换位置查找（含坐标与传送）、库存追踪（背包/雇员/陆行鸟）、\n食物/药品期望计算、物品监控预警（弹窗/聊天），以及坐骑/宠物/发型/绘画作品的即时预览等等。",
+    "Punchline": "物品价格查询、库存查询、商店兑换位置、传送、解锁预览图片等功能。（仅支持在线安装）",
+    "InternalName": "OmniToolbox",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/YouShux/OmniToolbox",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "IconUrl": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/%E5%8A%9F%E8%83%BD%E5%8F%8A%E5%9B%BE%E6%A0%87/%E5%9B%BE%E6%A0%87.jpg",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/%E5%8A%9F%E8%83%BD%E5%8F%8A%E5%9B%BE%E6%A0%87/%E5%8A%9F%E8%83%BD%E5%B1%95%E7%A4%BA%E5%9B%BE%20(1).png",
+      "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/%E5%8A%9F%E8%83%BD%E5%8F%8A%E5%9B%BE%E6%A0%87/%E5%8A%9F%E8%83%BD%E5%B1%95%E7%A4%BA%E5%9B%BE%20(2).png",
+      "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/%E5%8A%9F%E8%83%BD%E5%8F%8A%E5%9B%BE%E6%A0%87/%E5%8A%9F%E8%83%BD%E5%B1%95%E7%A4%BA%E5%9B%BE%20(3).png",
+      "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/%E5%8A%9F%E8%83%BD%E5%8F%8A%E5%9B%BE%E6%A0%87/%E5%8A%9F%E8%83%BD%E5%B1%95%E7%A4%BA%E5%9B%BE%20(4).png",
+      "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/%E5%8A%9F%E8%83%BD%E5%8F%8A%E5%9B%BE%E6%A0%87/%E5%8A%9F%E8%83%BD%E5%B1%95%E7%A4%BA%E5%9B%BE%20(5).png",
+      "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/%E5%8A%9F%E8%83%BD%E5%8F%8A%E5%9B%BE%E6%A0%87/%E5%8A%9F%E8%83%BD%E5%B1%95%E7%A4%BA%E5%9B%BE%20(6).png"
+    ],
+    "Tags": ["Market", "Price", "Inventory", "Vendor", "Preview", "Tool", "Teleport"],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
+    "Changelog": "首个版本发布！",
+    "LastUpdate": 20251225
+  },
+  {
     "Author": "Aireil, Nuko, YouShu",
     "Name": "FF Logs Viewer (汉化)",
     "Description": "在游戏内查看 FF Logs 排名百分比，支持右键搜索",
