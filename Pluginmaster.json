@@ -26,7 +26,7 @@
     "Description": "支持物品价格查询（跨服/税后）、商店购买与兑换位置查找（含坐标与传送）、库存追踪（背包/雇员/陆行鸟）、\n食物/药品期望计算、物品监控预警（弹窗/聊天），以及坐骑/宠物/发型/绘画作品的即时预览等等。",
     "Punchline": "物品价格查询、库存查询、商店兑换位置、传送、解锁预览图片等功能。（仅支持在线安装）",
     "InternalName": "OmniToolbox",
-    "AssemblyVersion": "1.0.1.1",
+    "AssemblyVersion": "1.0.1.2",
     "RepoUrl": "https://github.com/YouShux/OmniToolbox",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
@@ -42,7 +42,8 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
-    "Changelog": "修复价格界面查询报错，以及未加载进入游戏提前物品预警的问题！",
+    "Changelog": "- 1.0.1.2\n 新增开关：可显示所有游戏道具，便于查表\n 查表右键菜单：支持复制、跳转 Wiki 与 Garland Data\n UI：调整部分布局与分页样式 \n - 1.0.1.1\n 修复价格界面查询报错，以及未加载进入游戏提前物品预警的问题！",
+    
     "LastUpdate": 20251225
   },
   {
