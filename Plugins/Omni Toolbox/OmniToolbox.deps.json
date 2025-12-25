@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "OmniToolbox/1.0.1.2": {
+        "runtime": {
+          "OmniToolbox.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OmniToolbox/1.0.1.2": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
