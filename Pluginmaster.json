@@ -5,7 +5,7 @@
     "Description": "重定向所有职业的施法目标，避免卡宏，支持列表、场景、鼠标指向、准星、焦点目标等优先级。",
     "Punchline": "重定向技能施法目标，鼠标指哪打哪！（仅支持在线安装）",
     "InternalName": "MacroRedirection",
-    "AssemblyVersion": "1.0.0.8",
+    "AssemblyVersion": "1.0.0.9",
     "RepoUrl": "https://github.com/YouShux/Macro-Redirection",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
@@ -16,7 +16,8 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/Macro%20Redirection.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/Macro%20Redirection.zip",
-    "Changelog": "- 1.0.0.8\n 修改了技能图标外框的缩放，贴合游戏内图标！\n- 1.0.0.7\n修复 场景 悬浮目标 ，鼠标指向友方导致技能无法攻击时，使用当前选中的目标输出！修复快捷键失效的问题，以及联动我的ACR！",
+    "Changelog": "- 1.0.0.9\n 修改反馈频道与按钮，点击跳转插件的频道邀请链接！\n- 1.0.0.8\n 修改了技能图标外框的缩放，贴合游戏内图标！\n- 1.0.0.7\n修复 场景 悬浮目标 ，鼠标指向友方导致技能无法攻击时，使用当前选中的目标输出！修复快捷键失效的问题，以及联动我的ACR！",
+    
     
     "LastUpdate": 20260102
   },
@@ -26,7 +27,7 @@
     "Description": "支持物品价格查询（跨服/税后）、商店购买与兑换位置查找（含坐标与传送）、库存追踪（背包/雇员/陆行鸟）、\n食物/药品期望计算、物品监控预警（弹窗/聊天），以及坐骑/宠物/发型/绘画作品的即时预览等等。",
     "Punchline": "物品价格查询、库存查询、商店兑换位置、传送、解锁预览图片等功能。（仅支持在线安装）",
     "InternalName": "OmniToolbox",
-    "AssemblyVersion": "1.0.1.9",
+    "AssemblyVersion": "1.0.1.10",
     "RepoUrl": "https://github.com/YouShux/OmniToolbox",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
@@ -42,7 +43,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
-    "Changelog": "- 1.0.1.9\n 修复从背包查找的部分物品无法获取ID导致一直处于加载的BUG！\n- 1.0.1.8\n 补充灵砂类物品的兑换位置数据；查找界面新增复制按钮！\n- 1.0.1.7\n更新数据，排除几项无HQ版本的物品价格显示！- 1.0.1.6\n 修复切换地图后物品预警失效的问题！\n - 1.0.1.5\n 删除刚登录角色时，会触发两次聊天框预警提醒的Bug！",
+    "Changelog": "- 1.0.1.10\n 修改反馈频道与按钮，点击跳转插件的频道邀请链接！\n- 1.0.1.9\n 修复从背包查找的部分物品无法获取ID导致一直处于加载的BUG！\n- 1.0.1.8\n 补充灵砂类物品的兑换位置数据；查找界面新增复制按钮！\n- 1.0.1.7\n更新数据，排除几项无HQ版本的物品价格显示！- 1.0.1.6\n 修复切换地图后物品预警失效的问题！\n - 1.0.1.5\n 删除刚登录角色时，会触发两次聊天框预警提醒的Bug！",
     
     "LastUpdate": 20251225
   },
