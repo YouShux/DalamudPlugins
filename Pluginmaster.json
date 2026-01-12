@@ -53,7 +53,7 @@
     "Description": "在游戏内查看 FF Logs 排名百分比，支持右键搜索",
     "Punchline": "在游戏内查看 FF Logs 排名百分比（仅支持在线安装）",
     "InternalName": "FFLogsViewer",
-    "AssemblyVersion": "2.3.0.5",
+    "AssemblyVersion": "2.3.0.6",
     "RepoUrl": "https://github.com/YouShux/FFLogsViewer",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
@@ -67,7 +67,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/FFLogsViewer/FFLogsViewer.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/FFLogsViewer/FFLogsViewer.zip",
-    "Changelog": "- 2.3.0.5\n 更新格莱杨拉波尔歼殛战相关内容",
+    "Changelog": "- 2.3.0.6\n 更新阿卡狄亚零式登天斗技场 重量级相关内容",
     "LastUpdate": 20251221
   }
   ,
