@@ -3,7 +3,7 @@
 https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Pluginmaster.json
 
 ## 反馈频道
-https://discord.gg/yKkFkvAe
+https://discord.com/channels/1191648233454313482/1359224734704996493
 
 ## 插件列表
 
