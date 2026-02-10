@@ -5,7 +5,7 @@
     "Description": "重定向所有职业的施法目标，避免卡宏，支持列表、场景、鼠标指向、准星、焦点目标等优先级。",
     "Punchline": "重定向技能施法目标，鼠标指哪打哪！（仅支持在线安装）",
     "InternalName": "MacroRedirection",
-    "AssemblyVersion": "1.0.0.10",
+    "AssemblyVersion": "1.0.1.0",
     "RepoUrl": "https://github.com/YouShux/Macro-Redirection",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
@@ -16,10 +16,8 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/Macro%20Redirection.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/Macro%20Redirection.zip",
-    "Changelog": "- 1.0.0.10\n 更新反馈频道邀请链接，之前的忘记设成无限制导致过期了！\n- 1.0.0.9\n 修改反馈频道与按钮，点击跳转插件的频道邀请链接！\n- 1.0.0.8\n 修改了技能图标外框的缩放，贴合游戏内图标！\n- 1.0.0.7\n修复 场景 悬浮目标 ，鼠标指向友方导致技能无法攻击时，使用当前选中的目标输出！修复快捷键失效的问题，以及联动我的ACR！",
-    
-    
-    "LastUpdate": 20260120
+    "Changelog": "- 1.0.1.0\n 更新反馈频道邀请链接！",
+    "LastUpdate": 20260210
   },
   {
     "Author": "YouShu",
@@ -27,7 +25,7 @@
     "Description": "支持物品价格查询（跨服/税后）、商店购买与兑换位置查找（含坐标与传送）、库存追踪（背包/雇员/陆行鸟）、\n食物/药品期望计算、物品监控预警（弹窗/聊天），以及坐骑/宠物/发型/绘画作品的即时预览等等。",
     "Punchline": "物品价格查询、库存查询、商店兑换位置、传送、解锁预览图片等功能。（仅支持在线安装）",
     "InternalName": "OmniToolbox",
-    "AssemblyVersion": "1.0.1.17",
+    "AssemblyVersion": "1.0.2.0",
     "RepoUrl": "https://github.com/YouShux/OmniToolbox",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
@@ -43,9 +41,8 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
-    "Changelog": "- 1.0.1.17\n 精简优化了代码，修复掉帧的问题！务必及时更新！事发突然，插件还在写的东西并没有全部完善，\n更新了新标签页，树树妙妙屋，这个版块会陆续加一些小功能进去！\n搜索物品时，修改排序为默认以主城方式显示在先，新增按照传送费低到高排序！\n- 1.0.1.16\n 加入鞍囊/投影台/收藏柜，以及水晶类别的物品持有数量查询，修改物品和制作人名称的读取方式，相比之前读取物品数量会更加精准和快速！ \n新增了物品所在具体位置的查询开关和悬浮窗显示，可以选择简洁或详细的所在位置，以及新增一个总开关控制所有悬浮窗内容的绘制以及清除残留。 \n新增屏蔽制作&修理信息，为了缩减悬浮窗的长度，对所有物品都尽可能做了适配！\n- 1.0.1.15\n 修复绘制残留的问题，以及修复刷新按钮未触发的BUG，\n最后修改了一下绑定按钮设置界面的位置！\n- 1.0.1.14\n 修改持有数量的布局，雇员改成，雇员：A,B,C \n另外修改了读取雇员背包的逻辑，原先的60s一次读取有点数据更新缓慢了，现在同名雇员2s读取一次，同时在拖动物品时更新一次数据\n- 1.0.1.13\n 修复发型类物品一直显示未收录的BUG！\n- 1.0.1.12\n 修复物品悬浮窗持有数量无法关闭以及一个多余的药品期望计算，同时重新修改了物品悬浮窗的布局，\n区分所有的商店售卖和商店兑换的物品，低保、宠物等物品可以通过预览显示是否已收录！\n同时设置界面新加了几个开关用于控制悬浮窗的内容显示。\n- 1.0.1.11\n 新增低保类、杂货等物品的兑换道具数据，移除一个多余的物品属性显示！\n- 1.0.1.10\n 修改反馈频道与按钮，点击跳转插件的频道邀请链接！\n- 1.0.1.9\n 修复从背包查找的部分物品无法获取ID导致一直处于加载的BUG！\n- 1.0.1.8\n 补充灵砂类物品的兑换位置数据；查找界面新增复制按钮！\n- 1.0.1.7\n更新数据，排除几项无HQ版本的物品价格显示！- 1.0.1.6\n 修复切换地图后物品预警失效的问题！\n - 1.0.1.5\n 删除刚登录角色时，会触发两次聊天框预警提醒的Bug！",
-    
-    "LastUpdate": 20260108
+    "Changelog": "- 1.0.2.0\n-精简代码，更快的获取数据！并且对悬浮窗的布局重新调整了一下，不建议开启其余影响物品悬浮窗内容绘制的插件，可能因为不兼容会出现多余空白！\n-需要注意的悬浮窗内容改动就是，持有数量的绘制，替代掉了游戏原本的数量绘制，目前物品悬浮窗显示的所有内容基本上都由插件统一绘制了！\n-持有数量新增庭具仓库、家具仓库、公寓仓库、市场板上架、部队箱这五个地方，不做共享房屋区分！\n-新增的妙妙屋功能，技能防无效已写完，先前的更新比较仓促，导致很多用户在各个地方发OT的功能问题，现在疾跑默认改成了关闭，如果你能使用无限疾跑再打开吧。\n-树树妙妙屋新增显示ID信息功能，显示所有物品、技能、图标等等ID数据，源自DR，主要是适配一下悬浮窗的高度问题以及加上我常用的ID数据！\n-新增自动补货、市场板购买功能，放到了物品功能分支下，当物品数量不足时，可以自行选择是否需要补货，市场板功能默认使用虚空交互！\n-插件的通知形式修改，不再依靠默语提醒，避免屏蔽频道后无法收到通知！右键菜单的选项更名为 物品信息，插件的各类功能的UI布局重新修改了一下！\n-修复部分物品货币兑换类型的错误，修复上游的缩放导致的预览变大的问题，统一修改了一下预览物品的大小和位置。\n-最后是关于标签页新增插件的冲突和需求提示，为后续功能铺垫！",
+    "LastUpdate": 20260210
   },
   {
     "Author": "Aireil, Nuko, YouShu",

@@ -3,7 +3,7 @@
 https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Pluginmaster.json
 
 ## 反馈频道
-https://discord.gg/gf7zz84q73
+https://discord.gg/DFhmp7zzrz
 
 ## 插件列表
 
@@ -22,5 +22,4 @@ https://discord.gg/gf7zz84q73
 | EngageTimer (汉化) | 完整倒计时 / 开怪计时 / OBS 叠加（仅支持在线安装） |
 | Flash On Tell (汉化) | 收到悄悄话时让 FFXIV 窗口在任务栏闪烁（仅支持在线安装） |
 | Waymark Preset Plugin (汉化) | 保存、编辑、放置、导入、导出与预览无限数量的场标预设，支持与游戏原生场标窗口联动与分类管理（仅支持在线安装） |
-
 
