@@ -21,7 +21,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
-    "Changelog": "- 1.0.3.5\n-修复部分： \n-修改 自动应援的寻路、FATE、跨界逻辑，跨界后添加2s时间判断是否执行寻路，FATE时间小于90s会被舍弃，90s以上才会执行寻路逻辑！继续适配其余客户端的文本！ \n-修复部分物品的文本显示缺失、显示错误的问题！ \n-修改物品价格查询的筛选逻辑，主要是为了筛除部分已经不存在HQ版本的物品！ \n \n-新增内容： \n-自动应援：新增一个自定义FATE时间筛选滑块，默认90s！\n\n- 1.0.3.4\n-修复部分：\n-修复填错的服务器名！",
+    "Changelog": "- 1.0.3.5\n-修复部分：\n-修改自动应援的寻路、FATE、跨界逻辑，跨界后添加2s时间判断是否执行寻路，FATE时间小于90s会被舍弃，90s以上才会执行寻路逻辑！继续适配其余客户端的文本！ \n-修复部分物品的文本显示缺失、显示错误的问题！ \n-修改物品价格查询的筛选逻辑，主要是为了筛除部分已经不存在HQ版本的物品！ \n \n-新增内容： \n-自动应援：新增一个自定义FATE时间筛选滑块，默认90s！\n\n- 1.0.3.4\n-修复部分：\n-修复填错的服务器名！",
     "LastUpdate": 20260228
   },
   {
