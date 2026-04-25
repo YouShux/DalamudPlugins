@@ -1,0 +1,204 @@
+﻿[
+    {
+        "Author":  "YouShu",
+        "Name":  "Omni Toolbox",
+        "Description":  "支持物品价格查询、商店购买与兑换位置查找、库存追踪、食物/药品期望计算、物品监控预警自动补货、传送以及坐骑/宠物/发型/绘画作品的悬浮窗预览等等。",
+        "Punchline":  "物品价格查询、预警、自动补货、商店购买与兑换位置查找、传送以及各类物品的悬浮窗预览等功能！（仅支持在线安装）",
+        "InternalName":  "OmniToolbox",
+        "AssemblyVersion":  "1.0.5.4",
+        "RepoUrl":  "https://github.com/YouShux/OmniToolbox",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  14,
+        "IconUrl":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Resources/%E5%9B%BE%E6%A0%87.png",
+        "ImageUrls":  [
+                          "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Resources/%E5%8A%9F%E8%83%BD%E5%9B%BE(1).png",
+                          "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Resources/%E5%8A%9F%E8%83%BD%E5%9B%BE(2).png",
+                          "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Resources/%E5%8A%9F%E8%83%BD%E5%9B%BE(3).png",
+                          "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Resources/%E5%8A%9F%E8%83%BD%E5%9B%BE(4).png"
+                      ],
+        "Tags":  [
+                     "Market",
+                     "Price",
+                     "Inventory",
+                     "Vendor",
+                     "Preview",
+                     "Tool",
+                     "Teleport"
+                 ],
+        "IsHide":  false,
+        "IsTestingExclusive":  false,
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
+        "Changelog":  "- 1.0.5.4\n修改部分：\n- 大面积精简代码，优化插件整体架构与界面分类，主界面逻辑更清晰！\n- 优化 传送、自动寻路与相关联动逻辑，减少部分场景下的衔接异常！\n- 优化 受限功能判定与验证系统、提示！\n- 优化 插件自动更新流程，支持后台检测并在安全时机自动更新！\n- 修复 肝武复制品ID读取错误的问题，原先统一成原版ID+固定数值了，后来发现并非如此。。每个物品改成对应的复制品ID。\n- 修复 自动交军票期间可能会重复交互兑换npc的问题，优化交军票的切换流程！\n- 修复 悬浮窗持有数量没有显示成总数的问题！\n- 修改 物品收录 肝武部分的勾选图标，采用游戏内的UI，避免部分用户无法显示！\n- 修复 右键固定悬浮窗后，ESC退出界面预览图残留的问题！\n\n新增内容：\n- 提供/omni 肝武 指令进行数据的导出（开发用）！\n- 树树妙妙屋 新增血条上显示盾值的功能！\n- 物品收录 肝武部分新增 流光、赐福、辉煌、宇宙探索系列的武器！\n- 插件设置 新增清理交互数据的按钮，仅清理依赖交互读取的角色缓存，不清配置项！\n- 删除 物品查询设置里的雇员范围显示，角色缓存设置里，提供当前登录角色或全部角色的显示数据！\n\n- 1.0.5.3\n修改部分：\n- 修复 插件图标不显示的问题。\n\n新增内容：\n- 绝本肝武表头新增统计低保持有数量。\n\n- 1.0.5.2\n修改部分：\n- 修改 自动交军票的延迟，避免网络波动导致卡住！\n- 修改 物品收录的肝武逻辑，同时支持原版和复制品，有其一均显示为收录！同时，修复义武和曼武所需物品统计显示异常问题，并优化肝武未正确关联当前登录角色的展示逻辑。\n- 移除 技能防重复 的疾跑（PVE技能）控制，取而代之，新增无限疾跑功能！\n\n新增内容：-\n 插件新增ESC退出插件界面！\n- 插件验证添加兜底逻辑，避免单个域名爆炸后导致无法验证的问题！\n- 物品查询悬浮窗 新增显示收藏柜套装内装备的逻辑！\n- 树树妙妙屋 新增 无限疾跑，支持自定义冷却时间，默认每4秒重置一次疾跑冷却，避免战斗期间多插！\n- 树树妙妙屋 新增 虚空续部队特效，该功能可以实现任意地图下购买部队特效，每次登录游戏需交互一次部队商人（游戏底层限制）！\n\n- 1.0.5.1\n修改部分：\n- 精简插件的代码逻辑，未测试到的部分遇到BUG请及时DC反馈！\n- 修改 物品收录 肝武的逻辑，调整为仅显示当前登录角色的收录数据，角色首次登录需要手动交互获取数据！\n- 修改 物品收录 古武的逻辑，最后一阶段如果持有复制品也算在收录内，因为古武的任务特殊性，可以拿来换魂武！\n- 修改 测试码相关逻辑！调整插件的验证弹窗提醒！\n- 尝试修复 更快的搜索结果导致的制作笔记无法搜索配方的问题！\n- 尝试适配 国际服相关内容！\n- 修改 高亮显示购买位置的逻辑，人物和物品高亮改成1分钟，并且关闭该功能后立即执行清除高亮效果！\n- 修改 查询ID信息 的技能ID的逻辑，读条栏不再显示所有同名的ID，更改为通过使用网络包实现仅显示当前目标的技能ID（包含同读条的非实体目标）！\n- 修改 树树妙妙屋卡片的整体布局，分类待做，上线收藏功能！\n\n新增内容：\n- 重构 NPC传送功能，现已实现传送到距离商店NPC最近的水晶操作！另外修复了自动寻路和点击水晶图标传送会卡大水晶的问题！\n- 物品查询和物品收录 界面重做，新增各类筛选和收藏功能！（专门为国服做了单独的内容适配，其他服的适配就算了，太累了）\n- 物品收录 肝武，新增配置项，显示收录进度（功能效果为，收集了对应武器后，该阶段前的肝武统一显示为已收录状态，关闭后仅显示当前持有的武器阶段！）\n- 物品收录，新增点击坐骑、表情、宠物、时尚配饰图标即可召出的功能！\n- 物品预览 新增显示时尚配饰的预览图！\n- 树树妙妙屋 新增 SendEvent 抓包，开发使用！\n- 树树妙妙屋 新增 自动交军票的功能，除了自动交军票外，达到阈值会自动兑换设定的物品（为后续自动兑换铺路）！\n- 树树妙妙屋 新增 预览未解锁副本，打开任务搜索器时（按U），在窗口左侧显示未解锁的副本名并提供跳转wiki和排除副本的按钮！\n\n\n- 1.0.5.0\n修改部分：\n- 修复显示ID信息、服务器、HQ物品未显示版本号的问题！\n\n- 1.0.4.9\n修改部分：\n- 更换服务器！\n- 修复物品信息界面 NPC商人贩售信息不显示、悬浮窗文本内容不显示的问题！\n- 移除 树树妙妙屋里的自动应援功能（因为季节活动已结束！）\n\n新增内容：\n- 树树妙妙屋里，各个命令新增了复制按钮！\n- 新增 测试码认证凭证，获取途径暂无！新增 尝试闲暇时间自动更新插件（v1.0.4.9后生效），新增 物品版本号的悬浮窗显示！\n- 新增 自动挖宝（测试码功能）：输入对应的宝图ID，实现自动买三图、自动存鸟包、解读，同时显示藏宝图位置、不选中他人宝箱怪、TP钱袋等功能！\n- 显示ID信息：新增显示隐藏的对象，把游戏原本隐藏的目标变成可选中状态！搭配悬浮窗展示目标各类信息效果更佳！\n- 新增 物品收录，插件主界面下的新功能，包含肝武进度、坐骑、宠物、发型、幻卡、表情、鸟甲、乐谱、肖像教材、时尚配饰、眼镜、盲盒、青魔技能的收录情况！\n\n已知问题：\n- 物品收录的获取途径不能使用，打算后续和物品查询界面一起改分类！\n\n- 1.0.4.8\n修复部分：\n- 修改部分插件加载逻辑，角色未登录进世界状态下不再加载部分插件的功能！\n- 修改验证相关逻辑！\n\n新增内容：\n- 新增 临时验证系统，输入口令后激活插件！同时修改验证服务器炸了之后的插件和BOT提醒！\n- 传送功能大改，但现在处于未完成状态，完成度90%这样子，可以实现传送至商人最近的水晶处，以及点击水晶直接传送的操作！\n- 因为该功能的修改，目前自动寻路是坏的！后续如果写不好就考虑收集所有水晶的地址，借此奖励一个测试码（待定，因为我还没写测试码功能）！\n\n- 1.0.4.7\n修改部分：\n- 删除自动更新的无效代码，修改插件和BOT的验证部分提醒！\n- 1.0.4.6\n修改部分：\n- 修复 国际服凭证无法复制的问题！\n\n新增内容：\n- 新增 版本号检测，低于新版本的插件验证自动失效！同时，尝试闲暇时间自动更新插件！\n- 1.0.4.5\n修改部分：\n- 修复 物品查询 界面，存在多个同类物品时，右键同时出现多个菜单的BUG！\n- 修改一部分的界面UI！\n\n新增内容：\n- 复制的凭证不再从本地拿取时间，采用新的方式读取标准时区的服务器时间，避免本地复制的时间过旧！\n- 新增 弹窗提示插件是否激活，仅提醒激活和过期的用户，不打算激活的用户只有文本提醒！后续会陆续补充其余功能的弹窗提醒！\n- 1.0.4.4\n修改部分：\n- 尝试修复验证相关的问题，移除S账号凭证的适配！\n- 修改 更快的搜索结果操作过快的提醒逻辑，原先的逻辑导致正常交互关闭部队箱也会弹提醒！\n- 修复 物品查询 界面，存在多个同类物品时，右键同时出现多个菜单的BUG！\n- 适配 玻璃星宇宙包道具的悬浮窗文本！\n- 快捷键复制物品名 修改该功能按下复制按键会使用游戏原本按键的问题！\n- 合并树树妙妙屋里，虚空市场板、NPC商店远程购买、自动补货的三个功能，改成单独功能 虚空自动补货，为后续功能铺路！\n新增内容：\n- 验证中心的交互按钮添加动画逻辑，新增三个亮色主题，同时修改旧主题UI相关的绘制！\n- 更快的搜索结果：部队箱新增自定义默认显示仓库，修改交互过快的提醒频率和文本！\n- 1.0.4.3\n修改部分：\n- 尝试修复验证相关的问题！\n- 1.0.4.2\n修改部分：\n- 尝试修复验证相关的问题！\n- 1.0.4.1\n修改部分：\n- 修复传云后的部分问题！\n- 1.0.4.0\n修改部分：\n- 删除了/omni 验证界面的指令，由于插件界面布局的修改，所以不需要这个指令了！\n- 尝试修改一部分验证相关的问题，感觉是因为盛趣账号游戏内跨大区，角色数据暂时不可读导致验证失效！\n- 修复同时显示装备幻化名功能的绘制残留！\n- 修复显示ID信息功能泄露导致的物品名称悬浮窗文本随鼠标位置移动的BUG！\n新增内容：\n- UI界面全部重做，区分功能是否需要验证生效，大部分自动功能都需要验证才能开启！\n- 新增了插件的图标UI悬浮窗、以及新增主题颜色，用户切换默认的预设主题！\n- 物品预览功能，新增鼠标穿透功能，避免预览图遮挡导致无法点击物品！同时，发现预览做了种族区分显示！\n- 物品预览功能新增预览盲盒，该功能开启后，军票兑换的盲盒、幻卡包，悬浮窗和物品信息界面将会显示收录情况和预览，目前收录了9个盲盒，有遗漏再补充！\n- 新增魔晶石总属性显示：开启后在装备的属性面板显示镶嵌魔晶石后的总属性！\n- 新增快捷键复制物品名：开启后，鼠标放到对应物品上按下Ctrl+C复制对应的物品名！\n- 新增悬浮窗绘制的所有文本内容不会再超出游戏窗口边界！\n- 1.0.3.9\n修改验证系统，复制的凭证新增30s有效期限制！\n- 1.0.3.8\n更换验证系统，欢迎猫猫，感谢xsz老师！",
+        "LastUpdate":  20260425
+    },
+    {
+        "Author":  "YouShu",
+        "Name":  "Macro Redirection",
+        "Description":  "重定向所有职业的施法目标，避免卡宏，支持列表、场景、鼠标指向、准星、焦点目标等优先级。",
+        "Punchline":  "重定向技能施法目标，鼠标指哪打哪！（仅支持在线安装）",
+        "InternalName":  "MacroRedirection",
+        "AssemblyVersion":  "1.0.1.3",
+        "RepoUrl":  "https://github.com/YouShux/Macro-Redirection",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  14,
+        "IconUrl":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/cursor_hr1.png",
+        "ImageUrls":  [
+
+                      ],
+        "Tags":  [
+                     "Mouseover",
+                     "Macro",
+                     "Target",
+                     "IPC",
+                     "Combat"
+                 ],
+        "IsHide":  false,
+        "IsTestingExclusive":  false,
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/Macro%20Redirection.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/Macro%20Redirection.zip",
+        "Changelog":  "- 1.0.1.3\n 插件新增ESC退出插件界面！",
+        "LastUpdate":  20260414
+    },
+    {
+        "Author":  "Aireil, Nuko, YouShu",
+        "Name":  "FF Logs Viewer (汉化)",
+        "Description":  "在游戏内查看 FF Logs 排名百分比，支持右键搜索",
+        "Punchline":  "在游戏内查看 FF Logs 排名百分比（仅支持在线安装）",
+        "InternalName":  "FFLogsViewer",
+        "AssemblyVersion":  "2.3.0.7",
+        "RepoUrl":  "https://github.com/YouShux/FFLogsViewer",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  14,
+        "IconUrl":  "https://raw.githubusercontent.com/YouShux/FFLogsViewer/CN-Ver/res/icon.png",
+        "ImageUrls":  [
+                          "https://raw.githubusercontent.com/YouShux/FFLogsViewer/CN-Ver/res/image1.png",
+                          "https://raw.githubusercontent.com/YouShux/FFLogsViewer/CN-Ver/res/image2.png"
+                      ],
+        "Tags":  [
+                     "FFLogs"
+                 ],
+        "IsHide":  false,
+        "IsTestingExclusive":  false,
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/FFLogsViewer/FFLogsViewer.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/FFLogsViewer/FFLogsViewer.zip",
+        "Changelog":  "- 2.3.0.7\n 补充M12S本体Logs！\n- 2.3.0.6\n 更新阿卡狄亚零式登天斗技场 重量级相关内容",
+        "LastUpdate":  20260113
+    },
+    {
+        "Author":  "PunishedPineapple, YouShu",
+        "Name":  "Distance (汉化)",
+        "Description":  "在游戏内显示到目标/单位的距离，并可显示支持 Boss 的仇恨范围，支持姓名板与多种自定义显示",
+        "Punchline":  "显示目标距离与仇恨范围（仅支持在线安装）",
+        "InternalName":  "Distance",
+        "AssemblyVersion":  "1.1.4.0",
+        "RepoUrl":  "https://github.com/YouShux/Distance",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  14,
+        "IconUrl":  "https://raw.githubusercontent.com/YouShux/Distance/main/docs/Images/icon.png",
+        "ImageUrls":  [
+                          "https://raw.githubusercontent.com/YouShux/Distance/main/docs/Images/image1.png",
+                          "https://raw.githubusercontent.com/YouShux/Distance/main/docs/Images/image2.png"
+                      ],
+        "Tags":  [
+                     "Distance",
+                     "Range",
+                     "Aggro",
+                     "Nameplate"
+                 ],
+        "IsHide":  false,
+        "IsTestingExclusive":  false,
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Distance/Distance.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Distance/Distance.zip",
+        "Changelog":  "\n 7.4版本",
+        "LastUpdate":  20251218
+    },
+    {
+        "Author":  "Meoiswa, YouShu",
+        "Name":  "Tilted (汉化)",
+        "Description":  "根据条件自动调整第三人称镜头角度与距离，支持战斗、副本、拔刀、骑乘、飞行、镜头靠近等模式（仅支持在线安装）",
+        "Punchline":  "镜头角度与距离自动调整（仅支持在线安装）",
+        "InternalName":  "Tilted",
+        "AssemblyVersion":  "4.3.0.5",
+        "RepoUrl":  "https://github.com/YouShux/TiltedPlugin",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  14,
+        "IconUrl":  "https://raw.githubusercontent.com/YouShux/TiltedPlugin/main/images/icon.png",
+        "ImageUrls":  [
+                          "https://raw.githubusercontent.com/YouShux/TiltedPlugin/main/images/icon.png"
+                      ],
+        "Tags":  [
+                     "UI",
+                     "tweak",
+                     "camera",
+                     "combat"
+                 ],
+        "IsHide":  false,
+        "IsTestingExclusive":  false,
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Tilted/Tilted.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Tilted/Tilted.zip",
+        "Changelog":  "\n 7.4版本",
+        "LastUpdate":  20251218
+    },
+    {
+        "Author":  "Infi, PunishedPineapple, YouShu",
+        "Name":  "Waymark Preset Plugin (汉化)",
+        "Description":  "保存、编辑、放置、导入、导出与预览无限数量的场标预设，支持与游戏原生场标窗口联动与分类管理",
+        "Punchline":  "场标预设管理（仅支持在线安装）",
+        "InternalName":  "WaymarkPresetPlugin",
+        "AssemblyVersion":  "1.5.5.4",
+        "RepoUrl":  "https://github.com/Infiziert90/WaymarkPresetPlugin",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  14,
+        "IconUrl":  "https://raw.githubusercontent.com/Infiziert90/WaymarkPresetPlugin/master/docs/Images/icon.png",
+        "ImageUrls":  [
+                          "https://raw.githubusercontent.com/Infiziert90/WaymarkPresetPlugin/master/docs/Images/image1.png",
+                          "https://raw.githubusercontent.com/Infiziert90/WaymarkPresetPlugin/master/docs/Images/image2.png",
+                          "https://raw.githubusercontent.com/Infiziert90/WaymarkPresetPlugin/master/docs/Images/image3.png"
+                      ],
+        "Tags":  [
+                     "Waymark",
+                     "Marker",
+                     "Preset",
+                     "Tool"
+                 ],
+        "IsHide":  false,
+        "IsTestingExclusive":  false,
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/WaymarkPresetPlugin/WaymarkPresetPlugin.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/WaymarkPresetPlugin/WaymarkPresetPlugin.zip",
+        "Changelog":  "\n 7.4版本",
+        "LastUpdate":  20251218
+    },
+    {
+        "Author":  "Xorus, YouShu",
+        "Name":  "EngageTimer (汉化)",
+        "Description":  "倒计时开始时，把每个数字都完整的显示出来。\n自带精准的开怪计时，进入战斗就自动开始。\n\n功能：\n- 大号倒计时（显示全部数字）\n- 可自定义数字贴图（默认/黄色/WoW 风格/自定义文件）\n- 服务器信息栏与悬浮窗显示战斗时间\n- 提供 OBS 浏览器源页面：倒计时 + 当前战斗时长\n\n需要反馈、报错或改进建议都欢迎丢过来。紧急问题优先发 GitHub 或 XIVLauncher Discord 支持帖。",
+        "Punchline":  "完整倒计时 / 开怪计时 / OBS 叠加（仅支持在线安装）",
+        "InternalName":  "EngageTimer",
+        "AssemblyVersion":  "2.4.5.0",
+        "RepoUrl":  "https://github.com/xorus/EngageTimer",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  14,
+        "IconUrl":  "https://raw.githubusercontent.com/xorus/EngageTimer/main/images/icon.png",
+        "ImageUrls":  [
+                          "https://raw.githubusercontent.com/xorus/EngageTimer/main/images/image1.png",
+                          "https://raw.githubusercontent.com/xorus/EngageTimer/main/images/image2.png",
+                          "https://raw.githubusercontent.com/xorus/EngageTimer/main/images/image3.png"
+                      ],
+        "Tags":  [
+                     "countdown",
+                     "pull timer",
+                     "stopwatch",
+                     "OBS",
+                     "overlay",
+                     "streaming",
+                     "combat"
+                 ],
+        "IsHide":  false,
+        "IsTestingExclusive":  false,
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/EngageTimer/EngageTimer.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/EngageTimer/EngageTimer.zip",
+        "Changelog":  "\n 7.4版本",
+        "LastUpdate":  20251219
+    }
+]
