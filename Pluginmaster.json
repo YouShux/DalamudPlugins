@@ -38,7 +38,7 @@
         "Description":  "重定向所有职业的施法目标，避免卡宏，支持列表、场景、鼠标指向、准星、焦点目标等优先级。",
         "Punchline":  "重定向技能施法目标，鼠标指哪打哪！（仅支持在线安装）",
         "InternalName":  "MacroRedirection",
-        "AssemblyVersion":  "1.0.1.6",
+        "AssemblyVersion":  "1.0.1.7",
         "RepoUrl":  "https://github.com/YouShux/Macro-Redirection",
         "ApplicableVersion":  "any",
         "DalamudApiLevel":  15,
@@ -57,7 +57,7 @@
         "IsTestingExclusive":  false,
         "DownloadLinkInstall":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/Macro%20Redirection.zip",
         "DownloadLinkUpdate":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/Macro%20Redirection.zip",
-        "Changelog":  "- 1.0.1.6\n- 测试！\n\n- 1.0.1.5\n新增内容：\n- 测试自动发布！\n\n- 1.0.1.4\n修改部分：\n- 修复地面类技能选择“当前目标”时可能释放到鼠标位置的问题，现在会优先释放到当前目标中心。\n- 当前目标无法作为地面类技能释放目标时，自动回退到场地中心位置。\n- 删除龙骑士 PvP 技能列表中错误加入的崩拳。\n\n- 1.0.1.3\n新增内容：\n- API 15适配！\n- 插件新增ESC退出插件界面！",
+        "Changelog":  "- 1.0.1.7\n修改部分：\n- 修复预设导入后不显示、不生效的问题。\n\n- 1.0.1.6\n- 测试！\n\n- 1.0.1.5\n新增内容：\n- 测试自动发布！\n\n- 1.0.1.4\n修改部分：\n- 修复地面类技能选择“当前目标”时可能释放到鼠标位置的问题，现在会优先释放到当前目标中心。\n- 当前目标无法作为地面类技能释放目标时，自动回退到场地中心位置。\n- 删除龙骑士 PvP 技能列表中错误加入的崩拳。\n\n- 1.0.1.3\n新增内容：\n- API 15适配！\n- 插件新增ESC退出插件界面！",
         "LastUpdate":  20260508
     },
     {
