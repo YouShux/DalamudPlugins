@@ -5,7 +5,7 @@
         "Description":  "支持物品价格查询、商店购买与兑换位置查找、库存追踪、食物/药品期望计算、物品监控预警自动补货、传送以及坐骑/宠物/发型/绘画作品的悬浮窗预览等等。",
         "Punchline":  "物品价格查询、预警、自动补货、商店购买与兑换位置查找、传送以及各类物品的悬浮窗预览等功能！（仅支持在线安装）",
         "InternalName":  "OmniToolbox",
-        "AssemblyVersion":  "1.0.7.4",
+        "AssemblyVersion":  "1.0.7.5",
         "RepoUrl":  "https://github.com/YouShux/OmniToolbox",
         "ApplicableVersion":  "any",
         "DalamudApiLevel":  15,
@@ -29,7 +29,7 @@
         "IsTestingExclusive":  false,
         "DownloadLinkInstall":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
         "DownloadLinkUpdate":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
-        "Changelog":  "- 1.0.7.4\n修改部分：\n- 物品收录/肝武：启动时只预热一次，进入页面后仅在状态变化时刷新，减少重复读取和卡顿。\n- 多功能收纳：重构左/右键命令方式，插件收纳左键直接发送指令。\n- 多功能收纳：使用缓存与低频刷新，优化配置展开时性能。\n- 多功能收纳：适配 VNA 国服、GBR、MissFisher 的收纳开关。\n\n新增内容：\n- 更新 自动组队 逻辑：当聊天框有玩家发送指定数字时自动组队！",
+        "Changelog":  "- 1.0.7.5\n修改部分：\n- 物品收录/肝武：启动时只预热一次，进入页面后仅在状态变化时刷新，减少重复读取和卡顿。\n- 多功能收纳：重构左/右键的命令方式，插件收纳写入左键点击命令后，左键点击会发送指令！\n- 多功能收纳：使用缓存与低频刷新，优化配置展开时的性能。\n- 多功能收纳：插件收纳适配 VNA 国服、GBR、MissFisher！\n\n新增内容：\n- 更新 自动组队 逻辑：当聊天框有玩家发送指定数字时自动组队！",
         "LastUpdate":  20260510
     },
     {
