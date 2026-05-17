@@ -29,7 +29,7 @@
         "IsTestingExclusive":  false,
         "DownloadLinkInstall":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
         "DownloadLinkUpdate":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
-        "Changelog":  "本次更新后，更新日志和常见问题均发布到omni网站界面，相关频道已删除！",
+        `"Changelog":  "`",
           
         "LastUpdate":  20260518
     },
