@@ -29,7 +29,7 @@
         "IsTestingExclusive":  false,
         "DownloadLinkInstall":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
         "DownloadLinkUpdate":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
-        `"Changelog":  "`",
+        "Changelog":  "",
           
         "LastUpdate":  20260518
     },
