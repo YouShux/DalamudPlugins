@@ -5,7 +5,7 @@
         "Description":  "支持物品价格查询、商店购买与兑换位置查找、库存追踪、食物/药品期望计算、物品监控预警自动补货、传送以及坐骑/宠物/发型/绘画作品的悬浮窗预览等等。",
         "Punchline":  "物品价格查询、预警、自动补货、商店购买与兑换位置查找、传送以及各类物品的悬浮窗预览等功能！（仅支持在线安装）",
         "InternalName":  "OmniToolbox",
-        "AssemblyVersion":  "1.0.7.8",
+        "AssemblyVersion":  "1.0.7.9",
         "RepoUrl":  "https://github.com/YouShux/OmniToolbox",
         "ApplicableVersion":  "any",
         "DalamudApiLevel":  15,
@@ -29,8 +29,9 @@
         "IsTestingExclusive":  false,
         "DownloadLinkInstall":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
         "DownloadLinkUpdate":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
-        "Changelog":  "- 1.0.7.8 \n- 修改部分：\n- 修改 显示ID信息 中悬浮窗展示的绘制，现在悬浮窗效果无比流畅！\n- 新增内容：\n- 更新 显示ID信息，新增仅在读条时显示悬浮窗，另外修改读条动画！\n- 物品收录的盲盒新增 无人岛特殊配给货箱 的统计！\\n- 妙妙屋新增 减伤监控，参考ACT原版的悬浮窗减伤监控！",
-        "LastUpdate":  20260513
+        "Changelog":  "",
+          
+        "LastUpdate":  20260518
     },
     {
         "Author":  "YouShu",
