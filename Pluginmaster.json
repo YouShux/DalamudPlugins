@@ -58,7 +58,7 @@
         "IsTestingExclusive":  false,
         "DownloadLinkInstall":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/Macro%20Redirection.zip",
         "DownloadLinkUpdate":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/Macro%20Redirection.zip",
-        "Changelog":  "- 1.0.2.0\n修改部分：\n- 修改 当前目标的回退逻辑，无法释放时，由 场地中心 改为 对自己释放！\n\n- 1.0.1.9\n- 测试！\n\n- 1.0.1.8\n修改部分：\n- 修复混淆后配置和预设无法读取的问题。\n\n- 1.0.1.7\n修改部分：\n- 修复预设导入后不显示、不生效的问题。\n\n- 1.0.1.6\n- 测试！\n\n- 1.0.1.5\n新增内容：\n- 测试自动发布！\n\n- 1.0.1.4\n修改部分：\n- 修复地面类技能选择“当前目标”时可能释放到鼠标位置的问题，现在会优先释放到当前目标中心。\n- 当前目标无法作为地面类技能释放目标时，自动回退到场地中心位置。\n- 删除龙骑士 PvP 技能列表中错误加入的崩拳。\n\n- 1.0.1.3\n新增内容：\n- API 15适配！\n- 插件新增ESC退出插件界面！",
+        "Changelog":  "",
         "LastUpdate":  20260523
     },
     {
