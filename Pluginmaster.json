@@ -5,7 +5,7 @@
         "Description":  "支持物品价格查询、商店购买与兑换位置查找、库存追踪、食物/药品期望计算、物品监控预警自动补货、传送以及坐骑/宠物/发型/绘画作品的悬浮窗预览等等。",
         "Punchline":  "物品价格查询、预警、自动补货、商店购买与兑换位置查找、传送以及各类物品的悬浮窗预览等功能！（仅支持在线安装）",
         "InternalName":  "OmniToolbox",
-        "AssemblyVersion":  "1.1.1.3",
+        "AssemblyVersion":  "1.1.1.4",
         "RepoUrl":  "https://github.com/YouShux/OmniToolbox",
         "ApplicableVersion":  "any",
         "DalamudApiLevel":  15,
@@ -31,7 +31,7 @@
         "DownloadLinkUpdate":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
         "Changelog":  "",
           
-        "LastUpdate":  20260901
+        "LastUpdate":  20260903
     },
     {
         "Author":  "YouShu",
