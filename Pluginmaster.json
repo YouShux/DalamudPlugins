@@ -5,7 +5,7 @@
         "Description":  "支持物品价格查询、商店购买与兑换位置查找、库存追踪、食物/药品期望计算、物品监控预警自动补货、传送以及坐骑/宠物/发型/绘画作品的悬浮窗预览等等。",
         "Punchline":  "物品价格查询、预警、自动补货、商店购买与兑换位置查找、传送以及各类物品的悬浮窗预览等功能！（仅支持在线安装）",
         "InternalName":  "OmniToolbox",
-        "AssemblyVersion":  "1.1.8.6",
+        "AssemblyVersion":  "1.1.8.7",
         "RepoUrl":  "https://github.com/YouShux/OmniToolbox",
         "ApplicableVersion":  "any",
         "DalamudApiLevel":  15,
@@ -27,11 +27,11 @@
                  ],
         "IsHide":  false,
         "IsTestingExclusive":  false,
-        "DownloadLinkInstall":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.1.1.8.6.c56ab28725879dc56305e9b10be0bfb1a17d38473c6c07360c0f4aee87c483df.zip",
-        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.1.1.8.6.c56ab28725879dc56305e9b10be0bfb1a17d38473c6c07360c0f4aee87c483df.zip",
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.1.1.8.7.defd1f2f257822a76dc8231560dd61b76f50bdf391c0503288e7ef7fbb3c9b42.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.1.1.8.7.defd1f2f257822a76dc8231560dd61b76f50bdf391c0503288e7ef7fbb3c9b42.zip",
         "Changelog":  "",
           
-        "LastUpdate":  20261028
+        "LastUpdate":  20261029
     },
     {
         "Author":  "YouShu",
