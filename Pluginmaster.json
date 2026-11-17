@@ -5,7 +5,7 @@
         "Description":  "平时查资料少切几个窗口，传送和整理物品时少绕几步。雇员探险这类重复操作，就交给 Omni！",
         "Punchline":  "日常小工具，包含信息查询、界面优化和自动化等功能。",
         "InternalName":  "OmniToolbox",
-        "AssemblyVersion":  "1.2.0.5",
+        "AssemblyVersion":  "1.2.0.6",
         "RepoUrl":  "https://github.com/YouShux/OmniToolbox",
         "ApplicableVersion":  "any",
         "DalamudApiLevel":  15,
@@ -27,11 +27,11 @@
                  ],
         "IsHide":  false,
         "IsTestingExclusive":  false,
-        "DownloadLinkInstall":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.1.2.0.5.ad8a81093b47b0f6f3e4152536423ee3097beb5fab02742d8e9932791143a96d.zip",
-        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.1.2.0.5.ad8a81093b47b0f6f3e4152536423ee3097beb5fab02742d8e9932791143a96d.zip",
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.1.2.0.6.be641a771c5b8e255dd31d2b8d79e9c7222eff704ee8efa282938b783ab2205d.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.1.2.0.6.be641a771c5b8e255dd31d2b8d79e9c7222eff704ee8efa282938b783ab2205d.zip",
         "Changelog":  "",
           
-        "LastUpdate":  20261114
+        "LastUpdate":  20261117
     },
     {
         "Author":  "YouShu",
