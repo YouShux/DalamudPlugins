@@ -2,8 +2,8 @@
         {
         "Author":  "YouShu",
         "Name":  "Omni Toolbox",
-        "Description":  "支持物品价格查询、商店购买与兑换位置查找、库存追踪、食物/药品期望计算、物品监控预警自动补货、传送以及坐骑/宠物/发型/绘画作品的悬浮窗预览等等。",
-        "Punchline":  "物品价格查询、预警、自动补货、商店购买与兑换位置查找、传送以及各类物品的悬浮窗预览等功能！（仅支持在线安装）",
+        "Description":  "平时查资料少切几个窗口，传送和整理物品时少绕几步。雇员探险这类重复操作，就交给 Omni！",
+        "Punchline":  "日常小工具，包含信息查询、界面优化和自动化等功能。",
         "InternalName":  "OmniToolbox",
         "AssemblyVersion":  "1.2.0.5",
         "RepoUrl":  "https://github.com/YouShux/OmniToolbox",
@@ -113,5 +113,29 @@
         "DownloadLinkUpdate":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Distance/Distance.zip",
         "Changelog":  "- 1.1.4.1\n新增内容：\n- API 15适配！",
         "LastUpdate":  20260429
+    },
+    {
+        "Author":  "Herculezz, erdelf, YouShu",
+        "Name":  "AutoDuty CN",
+        "Description":  "自动排队、运行副本并循环执行。需要 BossMod Reborn、vnavmesh CN 和战斗循环插件。",
+        "Punchline":  "自动排本与副本导航（仅支持在线安装）",
+        "InternalName":  "AutoDuty",
+        "AssemblyVersion":  "0.0.0.1",
+        "MinimumDalamudVersion":  "15.0.0.0",
+        "RepoUrl":  "https://github.com/YouShux/AutoDuty",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  15,
+        "IconUrl":  "https://puni.sh/api/plugins/icon/54",
+        "Tags":  [
+                     "AutoDuty",
+                     "Duty",
+                     "Navigation"
+                 ],
+        "IsHide":  false,
+        "IsTestingExclusive":  false,
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/AutoDuty/AutoDuty.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/AutoDuty/AutoDuty.zip",
+        "Changelog":  "",
+        "LastUpdate":  20261117
     }
 ]
