@@ -120,7 +120,7 @@
         "Description":  "自动排队、运行副本并循环执行。需要 BossMod Reborn、vnavmesh CN 和战斗循环插件。",
         "Punchline":  "自动排本与副本导航（仅支持在线安装）",
         "InternalName":  "AutoDuty",
-        "AssemblyVersion":  "0.0.0.1",
+          "AssemblyVersion":  "0.0.0.2",
         "MinimumDalamudVersion":  "15.0.0.0",
         "RepoUrl":  "https://github.com/YouShux/AutoDuty",
         "ApplicableVersion":  "any",
@@ -135,7 +135,7 @@
         "IsTestingExclusive":  false,
         "DownloadLinkInstall":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/AutoDuty/AutoDuty.zip",
         "DownloadLinkUpdate":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/AutoDuty/AutoDuty.zip",
-        "Changelog":  "",
-        "LastUpdate":  20261117
+          "Changelog":  "补全简体中文界面、动作名称与运行提示；按职责整理副本执行和设置界面；保留在线安装限制。",
+          "LastUpdate":  20261120
     }
 ]
