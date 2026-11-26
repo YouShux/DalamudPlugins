@@ -1,0 +1,141 @@
+[
+        {
+        "Author":  "YouShu",
+        "Name":  "Omni Toolbox",
+        "Description":  "平时查资料少切几个窗口，传送和整理物品时少绕几步。雇员探险这类重复操作，就交给 Omni！",
+        "Punchline":  "日常小工具，包含信息查询、界面优化和自动化等功能。",
+        "InternalName":  "OmniToolbox",
+        "AssemblyVersion":  "1.2.1.1",
+        "RepoUrl":  "https://github.com/YouShux/OmniToolbox",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  15,
+        "IconUrl":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Resources/%E5%9B%BE%E6%A0%87.png",
+        "ImageUrls":  [
+                          "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Resources/%E5%8A%9F%E8%83%BD%E5%9B%BE(1).png",
+                          "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Resources/%E5%8A%9F%E8%83%BD%E5%9B%BE(2).png",
+                          "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Resources/%E5%8A%9F%E8%83%BD%E5%9B%BE(3).png",
+                          "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Resources/%E5%8A%9F%E8%83%BD%E5%9B%BE(4).png"
+                      ],
+        "Tags":  [
+                     "Market",
+                     "Price",
+                     "Inventory",
+                     "Vendor",
+                     "Preview",
+                     "Tool",
+                     "Teleport"
+                 ],
+        "IsHide":  false,
+        "IsTestingExclusive":  false,
+        "DownloadLinkInstall":  "https://media.githubusercontent.com/media/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.1.2.1.1.8c04d91621b2ba619d1da68966d34036af79881140ca82585bbde8fbab11cd57.zip?v=7c136d2",
+        "DownloadLinkUpdate":  "https://media.githubusercontent.com/media/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.1.2.1.1.8c04d91621b2ba619d1da68966d34036af79881140ca82585bbde8fbab11cd57.zip?v=7c136d2",
+        "Changelog":  "",
+          
+        "LastUpdate":  20261126
+    },
+    {
+        "Author":  "YouShu",
+        "Name":  "Macro Redirection",
+        "Description":  "重定向所有职业的施法目标，避免卡宏，支持列表、场景、鼠标指向、准星、焦点目标等优先级。",
+        "Punchline":  "重定向技能施法目标，鼠标指哪打哪！（仅支持在线安装）",
+        "InternalName":  "MacroRedirection",
+        "AssemblyVersion":  "1.0.2.2",
+        "RepoUrl":  "https://github.com/YouShux/Macro-Redirection",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  15,
+        "IconUrl":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/cursor_hr1.png",
+        "ImageUrls":  [
+
+                      ],
+        "Tags":  [
+                     "Mouseover",
+                     "Macro",
+                     "Target",
+                     "IPC",
+                     "Combat"
+                 ],
+        "IsHide":  false,
+        "IsTestingExclusive":  false,
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/Macro%20Redirection.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/Macro%20Redirection.zip",
+        "Changelog":  "- 1.0.2.2\n- 测试！\n\n",
+        "LastUpdate":  20260524
+    },
+    {
+        "Author":  "Aireil, Nuko, YouShu",
+        "Name":  "FF Logs Viewer (汉化)",
+        "Description":  "在游戏内查看 FF Logs 排名百分比，支持右键搜索",
+        "Punchline":  "在游戏内查看 FF Logs 排名百分比（仅支持在线安装）",
+        "InternalName":  "FFLogsViewer",
+        "AssemblyVersion":  "2.0.4.1",
+        "RepoUrl":  "https://github.com/YouShux/FFLogsViewer",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  15,
+        "IconUrl":  "https://raw.githubusercontent.com/YouShux/FFLogsViewer/CN-Ver/res/icon.png",
+        "ImageUrls":  [
+                          "https://raw.githubusercontent.com/YouShux/FFLogsViewer/CN-Ver/res/image1.png",
+                          "https://raw.githubusercontent.com/YouShux/FFLogsViewer/CN-Ver/res/image2.png"
+                      ],
+        "Tags":  [
+                     "FFLogs"
+                 ],
+        "IsHide":  false,
+        "IsTestingExclusive":  false,
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/FFLogsViewer/FFLogsViewer.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/FFLogsViewer/FFLogsViewer.zip",
+        "Changelog":  "- 2.0.4.1\n- 修改部分：\n- 修复 部分玩家右键查询未响应的问题，修复部分已知报错！",
+        "LastUpdate":  20260513
+    },
+    {
+        "Author":  "PunishedPineapple, YouShu",
+        "Name":  "Distance (汉化)",
+        "Description":  "在游戏内显示到目标/单位的距离，并可显示支持 Boss 的仇恨范围，支持姓名板与多种自定义显示",
+        "Punchline":  "显示目标距离与仇恨范围（仅支持在线安装）",
+        "InternalName":  "Distance",
+        "AssemblyVersion":  "1.1.4.1",
+        "RepoUrl":  "https://github.com/YouShux/Distance",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  15,
+        "IconUrl":  "https://raw.githubusercontent.com/YouShux/Distance/main/docs/Images/icon.png",
+        "ImageUrls":  [
+                          "https://raw.githubusercontent.com/YouShux/Distance/main/docs/Images/image1.png",
+                          "https://raw.githubusercontent.com/YouShux/Distance/main/docs/Images/image2.png"
+                      ],
+        "Tags":  [
+                     "Distance",
+                     "Range",
+                     "Aggro",
+                     "Nameplate"
+                 ],
+        "IsHide":  false,
+        "IsTestingExclusive":  false,
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Distance/Distance.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Distance/Distance.zip",
+        "Changelog":  "- 1.1.4.1\n新增内容：\n- API 15适配！",
+        "LastUpdate":  20260429
+    },
+    {
+        "Author":  "Herculezz, erdelf, YouShu",
+        "Name":  "AutoDuty CN",
+        "Description":  "自动排队、运行副本并循环执行。需要 BossMod Reborn、vnavmesh CN 和战斗循环插件。",
+        "Punchline":  "自动排本与副本导航（仅支持在线安装）",
+        "InternalName":  "AutoDuty",
+          "AssemblyVersion":  "0.0.0.2",
+        "MinimumDalamudVersion":  "15.0.0.0",
+        "RepoUrl":  "https://github.com/YouShux/AutoDuty",
+        "ApplicableVersion":  "any",
+        "DalamudApiLevel":  15,
+        "IconUrl":  "https://puni.sh/api/plugins/icon/54",
+        "Tags":  [
+                     "AutoDuty",
+                     "Duty",
+                     "Navigation"
+                 ],
+        "IsHide":  false,
+        "IsTestingExclusive":  false,
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/AutoDuty/AutoDuty.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/AutoDuty/AutoDuty.zip",
+          "Changelog":  "补全简体中文界面、动作名称与运行提示；按职责整理副本执行和设置界面；保留在线安装限制。",
+          "LastUpdate":  20261120
+    }
+]

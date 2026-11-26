@@ -1,0 +1,1372 @@
+[
+  {
+    "module_name": "AetheryteModelReplacement",
+    "title": "以太之光模型替换",
+    "aliases": [],
+    "titles": {
+      "en-US": "Aetheryte Model Replacement",
+      "ja": "エーテライトのモデル変更",
+      "ko": "에테라이트 모델 교체"
+    }
+  },
+  {
+    "module_name": "AltF4Exit",
+    "title": "Alt + F4 退出游戏",
+    "aliases": [],
+    "titles": {
+      "en-US": "Alt + F4 Exit",
+      "ja": "Alt + F4 でゲームを終了",
+      "ko": "Alt + F4로 게임 종료"
+    }
+  },
+  {
+    "module_name": "AntiCensorship",
+    "title": "解除屏蔽词限制",
+    "aliases": [],
+    "titles": {
+      "en-US": "Remove Word Filter",
+      "ja": "禁止ワード制限を解除",
+      "ko": "금칙어 필터 해제"
+    }
+  },
+  {
+    "module_name": "ArmoireRecord",
+    "title": "收藏柜记录",
+    "aliases": [],
+    "titles": {
+      "en-US": "Armoire Records",
+      "ja": "愛蔵品キャビネットの記録",
+      "ko": "추억의 보관함 기록"
+    }
+  },
+  {
+    "module_name": "AutoAcceptRaise",
+    "title": "自动接受复活",
+    "aliases": [],
+    "titles": {
+      "en-US": "Auto Accept Raise",
+      "ja": "蘇生の自動承諾",
+      "ko": "부활 자동 수락"
+    }
+  },
+  {
+    "module_name": "AutoBoboFarm",
+    "title": "自动波波刷赞",
+    "aliases": [],
+    "titles": {
+      "en-US": "Auto Under the Armor Commendation Farming",
+      "ja": "「彷徨う死霊を討て！」の MIP 周回",
+      "ko": "자동 길드 작전 추천 수집"
+    }
+  },
+  {
+    "module_name": "AutoCommenceDuty",
+    "title": "自动确认参加任务",
+    "aliases": [],
+    "titles": {
+      "en-US": "Auto Confirm Duty Entry",
+      "ja": "コンテンツ突入の自動承諾",
+      "ko": "임무 참가 자동 확인"
+    }
+  },
+  {
+    "module_name": "AutoConfirmAreaTravel",
+    "title": "自动确认区域传送",
+    "aliases": [],
+    "titles": {
+      "en-US": "Auto Confirm Area Transitions",
+      "ja": "エリア移動の自動承諾",
+      "ko": "지역 이동 자동 확인"
+    }
+  },
+  {
+    "module_name": "AutoCutsceneSkip",
+    "title": "自动跳过过场动画",
+    "aliases": [],
+    "titles": {
+      "en-US": "Auto Skip Cutscenes",
+      "ja": "カットシーンの自動スキップ",
+      "ko": "영상 자동 건너뛰기"
+    }
+  },
+  {
+    "module_name": "AutoDeepDungeon",
+    "title": "自动深层迷宫",
+    "aliases": [],
+    "titles": {
+      "en-US": "Auto Deep Dungeon",
+      "ja": "ディープダンジョン自動化",
+      "ko": "딥 던전 자동 진행"
+    }
+  },
+  {
+    "module_name": "AutoDeleteDeepDungeonSave",
+    "title": "深层迷宫存档快捷删除",
+    "aliases": [],
+    "titles": {
+      "en-US": "Quick Delete Deep Dungeon Saves",
+      "ja": "ディープダンジョンのセーブを素早く削除",
+      "ko": "딥 던전 저장 데이터 빠른 삭제"
+    }
+  },
+  {
+    "module_name": "AutoDuty",
+    "title": "自动副本",
+    "aliases": [],
+    "titles": {
+      "en-US": "Auto Duty",
+      "ja": "コンテンツ自動化",
+      "ko": "임무 자동 진행"
+    }
+  },
+  {
+    "module_name": "AutoFateSync",
+    "title": "自动危命任务等级同步",
+    "aliases": [],
+    "titles": {
+      "en-US": "Auto FATE Level Sync",
+      "ja": "F.A.T.E. の自動レベルシンク",
+      "ko": "돌발 임무 레벨 자동 조율"
+    }
+  },
+  {
+    "module_name": "AutoGCSeal",
+    "title": "自动交军票",
+    "aliases": [],
+    "titles": {
+      "en-US": "Auto Company Seal Turn-ins",
+      "ja": "軍票の自動納品",
+      "ko": "군표 자동 납품"
+    }
+  },
+  {
+    "module_name": "AutoGoldSaucer",
+    "title": "自动金碟小游戏",
+    "aliases": [],
+    "titles": {
+      "en-US": "Auto Gold Saucer Minigames",
+      "ja": "ゴールドソーサーのミニゲーム自動化",
+      "ko": "골드 소서 미니게임 자동 진행"
+    }
+  },
+  {
+    "module_name": "AutoHideModel",
+    "title": "自动隐藏模型/特效",
+    "aliases": [],
+    "titles": {
+      "en-US": "Auto Hide Models/Effects",
+      "ja": "モデル／エフェクトの自動非表示",
+      "ko": "모델/효과 자동 숨기기"
+    }
+  },
+  {
+    "module_name": "AutoHunt",
+    "title": "自动狩猎",
+    "aliases": [],
+    "titles": {
+      "en-US": "Auto Hunt",
+      "ja": "モブハント自動化",
+      "ko": "마물 사냥 자동 진행"
+    }
+  },
+  {
+    "module_name": "AutoIshgardRestoration",
+    "title": "自动重建伊修加德",
+    "aliases": [],
+    "titles": {
+      "en-US": "Auto Ishgardian Restoration",
+      "ja": "イシュガルド復興の自動化",
+      "ko": "이슈가르드 부흥 자동 진행"
+    }
+  },
+  {
+    "module_name": "AutoIslandSanctuary",
+    "title": "自动无人岛",
+    "aliases": [],
+    "titles": {
+      "en-US": "Auto Island Sanctuary",
+      "ja": "無人島開拓の自動化",
+      "ko": "무인도 자동 진행"
+    }
+  },
+  {
+    "module_name": "AutoKeyboundBrawler",
+    "title": "自动魔光键影",
+    "aliases": [],
+    "titles": {
+      "en-US": "Auto Keybound Brawler",
+      "ja": "キーバウンド・ブロウラーの自動化",
+      "ko": "마법자판 난타전 자동 진행"
+    }
+  },
+  {
+    "module_name": "AutoLogin",
+    "title": "自动登录",
+    "aliases": [],
+    "titles": {
+      "en-US": "Auto Login",
+      "ja": "自動ログイン",
+      "ko": "자동 로그인"
+    }
+  },
+  {
+    "module_name": "AutoMateriaExtraction",
+    "title": "自动精制魔晶石",
+    "aliases": [],
+    "titles": {
+      "en-US": "Automatic Materia Extraction",
+      "ja": "マテリアの自動精製",
+      "ko": "마테리아 자동 정제"
+    }
+  },
+  {
+    "module_name": "AutoMining",
+    "title": "自动矿脉探索",
+    "aliases": [],
+    "titles": {
+      "en-US": "Auto The Finer Miner",
+      "ja": "ファイナー・マイナーの自動化",
+      "ko": "곡괭이 찍기 자동 진행"
+    }
+  },
+  {
+    "module_name": "AutoMount",
+    "title": "自动上下坐骑",
+    "aliases": [],
+    "titles": {
+      "en-US": "Auto Mount/Dismount",
+      "ja": "マウントの自動乗降",
+      "ko": "탈것 자동 타기/내리기"
+    }
+  },
+  {
+    "module_name": "AutoOpenTreasures",
+    "title": "自动开启宝箱",
+    "aliases": [],
+    "titles": {
+      "en-US": "Auto Open Treasure Coffers",
+      "ja": "宝箱を自動で開く",
+      "ko": "보물상자 자동 열기"
+    }
+  },
+  {
+    "module_name": "AutoPartyInvite",
+    "title": "自动组队",
+    "aliases": [],
+    "titles": {
+      "en-US": "Auto Party Invitations",
+      "ja": "パーティの自動編成",
+      "ko": "파티 자동 구성"
+    }
+  },
+  {
+    "module_name": "AutoPlayerCommend",
+    "title": "自动最优队员推荐",
+    "aliases": [],
+    "titles": {
+      "en-US": "Automatic Player Commendations",
+      "ja": "自動 MIP 推薦",
+      "ko": "플레이어 자동 추천"
+    }
+  },
+  {
+    "module_name": "AutoQuest",
+    "title": "自动任务",
+    "aliases": [],
+    "titles": {
+      "en-US": "Auto Quest",
+      "ja": "クエスト自動化",
+      "ko": "퀘스트 자동 진행"
+    }
+  },
+  {
+    "module_name": "AutoRecommendedGear",
+    "title": "自动推荐换装",
+    "aliases": [],
+    "titles": {
+      "en-US": "Automatically Equip Recommended Gear",
+      "ja": "さいきょう装備を自動適用",
+      "ko": "추천 장비 자동 착용"
+    }
+  },
+  {
+    "module_name": "AutoRepair",
+    "title": "自动修理",
+    "aliases": [],
+    "titles": {
+      "en-US": "Auto Repair",
+      "ja": "自動修理",
+      "ko": "자동 수리"
+    }
+  },
+  {
+    "module_name": "AutoRetainer",
+    "title": "自动雇员",
+    "aliases": [],
+    "titles": {
+      "en-US": "Auto Retainers",
+      "ja": "リテイナーの自動化",
+      "ko": "집사 자동 관리"
+    }
+  },
+  {
+    "module_name": "AutoSortItems",
+    "title": "自动整理物品",
+    "aliases": [],
+    "titles": {
+      "en-US": "Auto Sort Items",
+      "ja": "アイテムの自動整理",
+      "ko": "아이템 자동 정렬"
+    }
+  },
+  {
+    "module_name": "AutoSpeedMultiplier",
+    "title": "自动调整移动速度",
+    "aliases": [],
+    "titles": {
+      "en-US": "Automatically Adjust Movement Speed",
+      "ja": "移動速度の自動調整",
+      "ko": "이동 속도 자동 조정"
+    }
+  },
+  {
+    "module_name": "AutoStore",
+    "title": "自动存取物品",
+    "aliases": [],
+    "titles": {
+      "en-US": "Auto Item Transfers",
+      "ja": "アイテムの自動預け入れ・取り出し",
+      "ko": "아이템 자동 보관/회수"
+    }
+  },
+  {
+    "module_name": "AutoSwitchConfiguration",
+    "title": "自动切换配置",
+    "aliases": [],
+    "titles": {
+      "en-US": "Auto Switch Configuration",
+      "ja": "設定の自動切り替え",
+      "ko": "설정 자동 전환"
+    }
+  },
+  {
+    "module_name": "AutoTalkSkip",
+    "title": "自动跳过对话",
+    "aliases": [],
+    "titles": {
+      "en-US": "Auto Advance Dialogue",
+      "ja": "会話の自動送り",
+      "ko": "대화 자동 넘기기"
+    }
+  },
+  {
+    "module_name": "AutoTree",
+    "title": "自动孤树无援",
+    "aliases": [],
+    "titles": {
+      "en-US": "Auto Out on a Limb",
+      "ja": "アウト・オン・ア・リムの自動化",
+      "ko": "도끼 찍기 자동 진행"
+    }
+  },
+  {
+    "module_name": "AutoTripleTriadCollection",
+    "title": "自动幻卡收集",
+    "aliases": [],
+    "titles": {
+      "en-US": "Auto Triple Triad Collection",
+      "ja": "トリプルトライアド自動収集",
+      "ko": "트리플 트라이어드 카드 자동 수집"
+    }
+  },
+  {
+    "module_name": "AutoUseUncollectedItems",
+    "title": "自动使用未收录物品",
+    "aliases": [],
+    "titles": {
+      "en-US": "Auto Use Unregistered Items",
+      "ja": "未修得アイテムの自動使用",
+      "ko": "미등록 아이템 자동 사용"
+    }
+  },
+  {
+    "module_name": "BackgroundChatReminder",
+    "title": "后台聊天框提醒",
+    "aliases": [],
+    "titles": {
+      "en-US": "Background Chat Alerts",
+      "ja": "バックグラウンド時のチャット通知",
+      "ko": "백그라운드 채팅 알림"
+    }
+  },
+  {
+    "module_name": "BackgroundFPSLimit",
+    "title": "限制后台帧率",
+    "aliases": [],
+    "titles": {
+      "en-US": "Background Frame Rate Limit",
+      "ja": "バックグラウンド時の FPS 制限",
+      "ko": "백그라운드 프레임률 제한"
+    }
+  },
+  {
+    "module_name": "BatchFriendRemoval",
+    "title": "批量删除好友",
+    "aliases": [],
+    "titles": {
+      "en-US": "Batch Remove Friends",
+      "ja": "フレンドの一括削除",
+      "ko": "친구 일괄 삭제"
+    }
+  },
+  {
+    "module_name": "BattleTalkAdjustments",
+    "title": "战斗对话框调整",
+    "aliases": [],
+    "titles": {
+      "en-US": "Battle Dialogue Adjustments",
+      "ja": "戦闘中の吹き出し調整",
+      "ko": "전투 대화창 조정"
+    }
+  },
+  {
+    "module_name": "BestInSlotGear",
+    "title": "全职业BIS配装",
+    "aliases": [],
+    "titles": {
+      "en-US": "Best-in-Slot Gearsets",
+      "ja": "全ジョブの最適装備計算",
+      "ko": "전 직업 BIS 장비 구성"
+    }
+  },
+  {
+    "module_name": "BetterCharacterPanel",
+    "title": "更好的角色面板",
+    "aliases": [],
+    "titles": {
+      "en-US": "Better Character Window",
+      "ja": "キャラクターウィンドウの改善",
+      "ko": "캐릭터 창 개선"
+    }
+  },
+  {
+    "module_name": "BetterGlamourManagement",
+    "title": "更好的幻化管理",
+    "aliases": [],
+    "titles": {
+      "en-US": "Better Glamour Management",
+      "ja": "ミラージュプリズム管理の改善",
+      "ko": "장비 투영 관리 개선"
+    }
+  },
+  {
+    "module_name": "BetterNotebooks",
+    "title": "更好的青魔法书与魔兽图鉴",
+    "aliases": [],
+    "titles": {
+      "en-US": "Better Blue Magic Spellbook and Bestiary",
+      "ja": "青魔道書・魔獣図鑑の改善",
+      "ko": "청마도서 및 마수도감 개선"
+    }
+  },
+  {
+    "module_name": "BetterQuestInformation",
+    "title": "更好的任务情报",
+    "aliases": [],
+    "titles": {
+      "en-US": "Better Quest Information",
+      "ja": "クエスト情報の改善",
+      "ko": "퀘스트 정보 개선"
+    }
+  },
+  {
+    "module_name": "BetterTeleportManagement",
+    "title": "更好的传送管理",
+    "aliases": [],
+    "titles": {
+      "en-US": "Better Teleport Management",
+      "ja": "テレポ管理の改善",
+      "ko": "텔레포 관리 개선"
+    }
+  },
+  {
+    "module_name": "BetterUserMacro",
+    "title": "更好的用户宏",
+    "aliases": [],
+    "titles": {
+      "en-US": "Better User Macros",
+      "ja": "マクロの改善",
+      "ko": "사용자 매크로 개선"
+    }
+  },
+  {
+    "module_name": "BetterWondrousTails",
+    "title": "更好的天书奇谈",
+    "aliases": [],
+    "titles": {
+      "en-US": "Better Wondrous Tails",
+      "ja": "クロの空想帳の改善",
+      "ko": "쿠로의 공상 수첩 개선"
+    }
+  },
+  {
+    "module_name": "CastMovementLock",
+    "title": "读条止步",
+    "aliases": [],
+    "titles": {
+      "en-US": "Stop Movement While Casting",
+      "ja": "詠唱中の移動停止",
+      "ko": "시전 중 이동 잠금"
+    }
+  },
+  {
+    "module_name": "CastWhileMoving",
+    "title": "移动读条",
+    "aliases": [],
+    "titles": {
+      "en-US": "Move While Casting",
+      "ja": "移動しながら詠唱",
+      "ko": "이동 중 시전"
+    }
+  },
+  {
+    "module_name": "ChatFrameOptimization",
+    "title": "聊天框优化",
+    "aliases": [],
+    "titles": {
+      "en-US": "Chat Improvements",
+      "ja": "チャットの改善",
+      "ko": "채팅창 개선"
+    }
+  },
+  {
+    "module_name": "ChocoboColorPreview",
+    "title": "陆行鸟预览",
+    "aliases": [],
+    "titles": {
+      "en-US": "Chocobo Color Preview",
+      "ja": "チョコボの染色プレビュー",
+      "ko": "초코보 미리보기"
+    }
+  },
+  {
+    "module_name": "CombatAnimationLockRemoval",
+    "title": "技能动画锁移除",
+    "aliases": [],
+    "titles": {
+      "en-US": "Remove Animation Lock",
+      "ja": "アニメーションロックの解除",
+      "ko": "기술 동작 잠금 제거"
+    }
+  },
+  {
+    "module_name": "CoordinateNearestAetheryte",
+    "title": "坐标附带最近传送点",
+    "aliases": [],
+    "titles": {
+      "en-US": "Nearest Aetheryte in Map Links",
+      "ja": "座標に最寄りのエーテライトを添付",
+      "ko": "좌표에 가장 가까운 텔레포 지점 추가"
+    }
+  },
+  {
+    "module_name": "CopyItemName",
+    "title": "快捷键复制物品名",
+    "aliases": [],
+    "titles": {
+      "en-US": "Copy Item Name Shortcut",
+      "ja": "ショートカットでアイテム名をコピー",
+      "ko": "단축키로 아이템 이름 복사"
+    }
+  },
+  {
+    "module_name": "CosmicLottery",
+    "title": "宇宙抽奖",
+    "aliases": [],
+    "titles": {
+      "en-US": "Cosmic Fortunes",
+      "ja": "コスモフォーチュン",
+      "ko": "우주 복권"
+    }
+  },
+  {
+    "module_name": "CraftGatherFishingNoAnimation",
+    "title": "生产／采集／钓鱼无后摇",
+    "aliases": [],
+    "titles": {
+      "en-US": "No Crafting / Gathering / Fishing Recovery",
+      "ja": "製作・採集・釣りの硬直を省略",
+      "ko": "제작/채집/낚시 후딜레이 제거"
+    }
+  },
+  {
+    "module_name": "DalamudDirectoryCleanup",
+    "title": "清理卫月目录",
+    "aliases": [],
+    "titles": {
+      "en-US": "Clean Dalamud Directory",
+      "ja": "Dalamud フォルダーの整理",
+      "ko": "Dalamud 폴더 정리"
+    }
+  },
+  {
+    "module_name": "DalamudRepositoryCleanup",
+    "title": "库链清理",
+    "aliases": [],
+    "titles": {
+      "en-US": "Repository Cleanup",
+      "ja": "リポジトリ整理",
+      "ko": "저장소 정리"
+    }
+  },
+  {
+    "module_name": "DeepDungeonMode",
+    "title": "深宫无敌模式",
+    "aliases": [],
+    "titles": {
+      "en-US": "Deep Dungeon Invincibility",
+      "ja": "ディープダンジョン無敵モード",
+      "ko": "딥 던전 무적 모드"
+    }
+  },
+  {
+    "module_name": "DesynthesisEnhancement",
+    "title": "道具分解增强",
+    "aliases": [],
+    "titles": {
+      "en-US": "Enhanced Desynthesis",
+      "ja": "アイテム分解の拡張",
+      "ko": "아이템 분해 개선"
+    }
+  },
+  {
+    "module_name": "DirectionalActionRelease",
+    "title": "镜头/鼠标方向释放技能",
+    "aliases": [],
+    "titles": {
+      "en-US": "Use Actions Toward Camera/Mouse",
+      "ja": "カメラ／マウスの方向にアクションを使用",
+      "ko": "카메라/마우스 방향으로 기술 사용"
+    }
+  },
+  {
+    "module_name": "DisplayIDInformation",
+    "title": "显示 ID 信息",
+    "aliases": [],
+    "titles": {
+      "en-US": "Display IDs",
+      "ja": "ID 情報を表示",
+      "ko": "ID 정보 표시"
+    }
+  },
+  {
+    "module_name": "DuplicateStatusPrevention",
+    "title": "技能防无效",
+    "aliases": [],
+    "titles": {
+      "en-US": "Prevent Redundant Actions",
+      "ja": "アクションの無駄撃ち防止",
+      "ko": "무효 기술 사용 방지"
+    }
+  },
+  {
+    "module_name": "DutyLootPreview",
+    "title": "副本掉落预览",
+    "aliases": [],
+    "titles": {
+      "en-US": "Duty Loot Preview",
+      "ja": "ドロップアイテムのプレビュー",
+      "ko": "임무 보상 미리보기"
+    }
+  },
+  {
+    "module_name": "DutyReadyClassSwitching",
+    "title": "排本自动切换职业",
+    "aliases": [],
+    "titles": {
+      "en-US": "Auto Switch Job for Duty",
+      "ja": "コンテンツ突入時のジョブ切り替え",
+      "ko": "임무 참가 시 클래스/잡 자동 변경"
+    }
+  },
+  {
+    "module_name": "DynamicBattleEffects",
+    "title": "动态战斗特效",
+    "aliases": [],
+    "titles": {
+      "en-US": "Dynamic Battle Effects",
+      "ja": "バトルエフェクトの自動切り替え",
+      "ko": "전투 효과 자동 조정"
+    }
+  },
+  {
+    "module_name": "FastSearchResults",
+    "title": "更快的搜索结果",
+    "aliases": [],
+    "titles": {
+      "en-US": "Faster Search Results",
+      "ja": "検索結果の高速表示",
+      "ko": "검색 결과 가속"
+    }
+  },
+  {
+    "module_name": "FastWorldTravel",
+    "title": "快捷跨界传送",
+    "aliases": [],
+    "titles": {
+      "en-US": "Quick World Travel",
+      "ja": "ワールド間テレポ",
+      "ko": "빠른 서버 이동"
+    }
+  },
+  {
+    "module_name": "FloatingInfoOverlay",
+    "title": "悬浮窗展示信息",
+    "aliases": [],
+    "titles": {
+      "en-US": "Object Information Tooltips",
+      "ja": "情報ポップアップ",
+      "ko": "팝업 창 정보 표시"
+    }
+  },
+  {
+    "module_name": "FoodReminder",
+    "title": "食物提醒",
+    "aliases": [],
+    "titles": {
+      "en-US": "Food Reminders",
+      "ja": "食事の通知",
+      "ko": "음식 알림"
+    }
+  },
+  {
+    "module_name": "FreeCompanyAction",
+    "title": "虚空续部队特效",
+    "aliases": [],
+    "titles": {
+      "en-US": "Remote Company Action Renewal",
+      "ja": "カンパニーアクションの遠隔更新",
+      "ko": "부대 혜택 원격 갱신"
+    }
+  },
+  {
+    "module_name": "FriendListInDuty",
+    "title": "副本内好友名单",
+    "aliases": [],
+    "titles": {
+      "en-US": "Friend List inside Duties",
+      "ja": "コンテンツ内のフレンドリスト",
+      "ko": "임무 내 친구 목록"
+    }
+  },
+  {
+    "module_name": "GlamourName",
+    "title": "同步显示装备幻化名",
+    "aliases": [],
+    "titles": {
+      "en-US": "Show Equipment Glamour Names",
+      "ja": "投影装備名も表示",
+      "ko": "투영 장비 이름 함께 표시"
+    }
+  },
+  {
+    "module_name": "HiddenWindows",
+    "title": "隐藏窗口",
+    "aliases": [],
+    "titles": {
+      "en-US": "Hidden Windows",
+      "ja": "ウィンドウを非表示",
+      "ko": "창 숨기기"
+    }
+  },
+  {
+    "module_name": "HideMinimapIcons",
+    "title": "调整地图图标",
+    "aliases": [],
+    "titles": {
+      "en-US": "Map Icon Adjustments",
+      "ja": "マップアイコンの調整",
+      "ko": "지도 아이콘 조정"
+    }
+  },
+  {
+    "module_name": "HideNotificationPopups",
+    "title": "隐藏提示弹窗",
+    "aliases": [],
+    "titles": {
+      "en-US": "Hide Help Popups",
+      "ja": "ガイドのポップアップを非表示",
+      "ko": "안내 팝업 숨기기"
+    }
+  },
+  {
+    "module_name": "HotbarAdjustments",
+    "title": "热键栏调整",
+    "aliases": [],
+    "titles": {
+      "en-US": "Hotbar Adjustments",
+      "ja": "ホットバーの調整",
+      "ko": "단축바 조정"
+    }
+  },
+  {
+    "module_name": "HouseExpirationReminder",
+    "title": "房屋到期提醒",
+    "aliases": [],
+    "titles": {
+      "en-US": "Estate Expiration Reminders",
+      "ja": "ハウスの自動撤去通知",
+      "ko": "주택 자동 철거 알림"
+    }
+  },
+  {
+    "module_name": "HousingSales",
+    "title": "售房查询",
+    "aliases": [],
+    "titles": {
+      "en-US": "Housing Search",
+      "ja": "土地の売出情報",
+      "ko": "토지 매물 조회"
+    }
+  },
+  {
+    "module_name": "IgnoreFlightRestriction",
+    "title": "无视飞行限制",
+    "aliases": [],
+    "titles": {
+      "en-US": "Ignore Flight Restrictions",
+      "ja": "飛行制限を無視",
+      "ko": "비행 제한 무시"
+    }
+  },
+  {
+    "module_name": "IgnoreInteractionRestrictions",
+    "title": "无视交互限制",
+    "aliases": [],
+    "titles": {
+      "en-US": "Ignore Interaction Restrictions",
+      "ja": "操作制限を無視",
+      "ko": "상호작용 제한 무시"
+    }
+  },
+  {
+    "module_name": "IgnoreMountRestriction",
+    "title": "无视骑乘限制",
+    "aliases": [],
+    "titles": {
+      "en-US": "Ignore Mount Restrictions",
+      "ja": "騎乗制限を無視",
+      "ko": "탑승 제한 무시"
+    }
+  },
+  {
+    "module_name": "InfiniteReturn",
+    "title": "无限返回",
+    "aliases": [],
+    "titles": {
+      "en-US": "Unlimited Return",
+      "ja": "デジョンの制限解除",
+      "ko": "무제한 데존"
+    }
+  },
+  {
+    "module_name": "InfiniteSprint",
+    "title": "无限疾跑",
+    "aliases": [],
+    "titles": {
+      "en-US": "Unlimited Sprint",
+      "ja": "スプリントのリキャスト解除",
+      "ko": "무제한 전력 질주"
+    }
+  },
+  {
+    "module_name": "InnEntry",
+    "title": "一键进旅馆",
+    "aliases": [],
+    "titles": {
+      "en-US": "Quick Enter Inn Room",
+      "ja": "ワンクリックで宿屋へ",
+      "ko": "여관 원클릭 입장"
+    }
+  },
+  {
+    "module_name": "InstantLeaveDuty",
+    "title": "即刻退本",
+    "aliases": [],
+    "titles": {
+      "en-US": "Instant Leave Duty",
+      "ja": "即時退出",
+      "ko": "즉시 퇴장"
+    }
+  },
+  {
+    "module_name": "InstantRevive",
+    "title": "原地复活",
+    "aliases": [],
+    "titles": {
+      "en-US": "Revive in Place",
+      "ja": "その場で蘇生",
+      "ko": "제자리 부활"
+    }
+  },
+  {
+    "module_name": "InstantTeleport",
+    "title": "即刻传送",
+    "aliases": [],
+    "titles": {
+      "en-US": "Instant Teleport",
+      "ja": "即時テレポ",
+      "ko": "즉시 텔레포"
+    }
+  },
+  {
+    "module_name": "InvulnerableMode",
+    "title": "无敌模式",
+    "aliases": [],
+    "titles": {
+      "en-US": "Invincibility",
+      "ja": "無敵モード",
+      "ko": "무적 모드"
+    }
+  },
+  {
+    "module_name": "ItemAnimationLockRemoval",
+    "title": "物品动画锁移除",
+    "aliases": [],
+    "titles": {
+      "en-US": "Remove Item Animation Lock",
+      "ja": "アイテム使用時のアニメーションロック解除",
+      "ko": "아이템 동작 잠금 제거"
+    }
+  },
+  {
+    "module_name": "ItemManagement",
+    "title": "物品管理",
+    "aliases": [],
+    "titles": {
+      "en-US": "Item Management",
+      "ja": "アイテム管理",
+      "ko": "아이템 관리"
+    }
+  },
+  {
+    "module_name": "ItemPreview",
+    "title": "物品预览",
+    "aliases": [],
+    "titles": {
+      "en-US": "Item Previews",
+      "ja": "アイテムのプレビュー",
+      "ko": "아이템 미리보기"
+    }
+  },
+  {
+    "module_name": "ItemPriceQuery",
+    "title": "物品价格查询",
+    "aliases": [],
+    "titles": {
+      "en-US": "Item Price Lookup",
+      "ja": "アイテム価格の検索",
+      "ko": "아이템 가격 조회"
+    }
+  },
+  {
+    "module_name": "ItemQuery",
+    "title": "物品查询",
+    "aliases": [],
+    "titles": {
+      "en-US": "Item Lookup",
+      "ja": "アイテム検索",
+      "ko": "아이템 조회"
+    }
+  },
+  {
+    "module_name": "ItemTooltipRemark",
+    "title": "物品悬浮窗备注",
+    "aliases": [],
+    "titles": {
+      "en-US": "Item Tooltip Notes",
+      "ja": "アイテムのツールチップにメモ",
+      "ko": "아이템 도움말 메모"
+    }
+  },
+  {
+    "module_name": "LandLotteryCountdown",
+    "title": "土地抽选倒计时",
+    "aliases": [],
+    "titles": {
+      "en-US": "Housing Lottery Countdown",
+      "ja": "土地購入抽選のカウントダウン",
+      "ko": "토지 추첨 초읽기"
+    }
+  },
+  {
+    "module_name": "LargeCooldownCounter",
+    "title": "更大的冷却数字",
+    "aliases": [],
+    "titles": {
+      "en-US": "Larger Cooldown Numbers",
+      "ja": "リキャスト数字の拡大",
+      "ko": "재사용 대기 숫자 확대"
+    }
+  },
+  {
+    "module_name": "LimitBreakAnimationLockRemoval",
+    "title": "LB后摇移除",
+    "aliases": [],
+    "titles": {
+      "en-US": "Remove Limit Break Recovery",
+      "ja": "LB 後の硬直解除",
+      "ko": "LB 후딜레이 제거"
+    }
+  },
+  {
+    "module_name": "LockedDutyPreview",
+    "title": "预览未解锁副本",
+    "aliases": [],
+    "titles": {
+      "en-US": "Preview Locked Duties",
+      "ja": "未解放コンテンツを確認",
+      "ko": "미개방 임무 미리보기"
+    }
+  },
+  {
+    "module_name": "LockedPortraitPreview",
+    "title": "肖像内容预览",
+    "aliases": [],
+    "titles": {
+      "en-US": "Portrait Content Preview",
+      "ja": "ポートレート内容のプレビュー",
+      "ko": "초상화 요소 미리보기"
+    }
+  },
+  {
+    "module_name": "LootRollHistory",
+    "title": "战利品记录",
+    "aliases": [],
+    "titles": {
+      "en-US": "Loot Roll History",
+      "ja": "戦利品記録",
+      "ko": "전리품 기록"
+    }
+  },
+  {
+    "module_name": "MaxGrandCompanyRank",
+    "title": "最大军衔",
+    "aliases": [],
+    "titles": {
+      "en-US": "Maximum Grand Company Rank",
+      "ja": "最大階級",
+      "ko": "최대 계급"
+    }
+  },
+  {
+    "module_name": "MinimapAdjustments",
+    "title": "小地图调整",
+    "aliases": [],
+    "titles": {
+      "en-US": "Minimap Adjustments",
+      "ja": "ミニマップの調整",
+      "ko": "미니맵 조정"
+    }
+  },
+  {
+    "module_name": "MitigationMonitor",
+    "title": "减伤监控",
+    "aliases": [],
+    "titles": {
+      "en-US": "Mitigation Monitor",
+      "ja": "軽減モニター",
+      "ko": "피해 감소 감시"
+    }
+  },
+  {
+    "module_name": "MoreMinimapInformation",
+    "title": "更多的地图信息",
+    "aliases": [],
+    "titles": {
+      "en-US": "More Map Information",
+      "ja": "マップ情報の追加",
+      "ko": "지도 정보 확장"
+    }
+  },
+  {
+    "module_name": "MultiToolbar",
+    "title": "多功能工具栏",
+    "aliases": [],
+    "titles": {
+      "en-US": "Multi-toolbar",
+      "ja": "多機能ツールバー",
+      "ko": "다기능 도구 모음"
+    }
+  },
+  {
+    "module_name": "NPCEventActionRemoval",
+    "title": "NPC／事件动作移除",
+    "aliases": [],
+    "titles": {
+      "en-US": "Remove NPC / Event Animations",
+      "ja": "NPC・イベントのモーション省略",
+      "ko": "NPC/이벤트 동작 제거"
+    }
+  },
+  {
+    "module_name": "ObsAutoRecording",
+    "title": "OBS自动录制",
+    "aliases": [],
+    "titles": {
+      "en-US": "Auto OBS Recording",
+      "ja": "OBS 自動録画",
+      "ko": "OBS 자동 녹화"
+    }
+  },
+  {
+    "module_name": "OneClickLowerQuality",
+    "title": "一键降低品质",
+    "aliases": [],
+    "titles": {
+      "en-US": "Lower All to Normal Quality",
+      "ja": "まとめて通常品質に変更",
+      "ko": "품질 한 번에 낮추기"
+    }
+  },
+  {
+    "module_name": "OneClickRetainerBell",
+    "title": "一键交互雇员铃",
+    "aliases": [],
+    "titles": {
+      "en-US": "Quick Summoning Bell",
+      "ja": "リテイナーベルをワンクリックで操作",
+      "ko": "초인종 원클릭 상호작용"
+    }
+  },
+  {
+    "module_name": "PartyFinderHousingTravel",
+    "title": "招募房屋传送",
+    "aliases": [],
+    "titles": {
+      "en-US": "Party Finder Housing Teleport",
+      "ja": "募集のハウスへテレポ",
+      "ko": "모집 주택 텔레포"
+    }
+  },
+  {
+    "module_name": "PartyFinderInDuty",
+    "title": "更好的队员招募",
+    "aliases": [],
+    "titles": {
+      "en-US": "Better Party Finder",
+      "ja": "パーティ募集の改善",
+      "ko": "파티원 모집 개선"
+    }
+  },
+  {
+    "module_name": "ProhibitSwimming",
+    "title": "禁止游泳",
+    "aliases": [],
+    "titles": {
+      "en-US": "Disable Swimming",
+      "ja": "泳ぎを禁止",
+      "ko": "수영 금지"
+    }
+  },
+  {
+    "module_name": "RaiseDispelEnhancement",
+    "title": "复活驱散提醒增强",
+    "aliases": [],
+    "titles": {
+      "en-US": "Enhanced Raise and Dispel Reminders",
+      "ja": "蘇生・デバフ解除通知の拡張",
+      "ko": "부활 및 해제 알림 개선"
+    }
+  },
+  {
+    "module_name": "RaiseEnhancement",
+    "title": "复活位置提醒",
+    "aliases": [],
+    "titles": {
+      "en-US": "Raise Location Reminder",
+      "ja": "蘇生位置の通知",
+      "ko": "부활 위치 알림"
+    }
+  },
+  {
+    "module_name": "ReadyCheck",
+    "title": "准备确认",
+    "aliases": [],
+    "titles": {
+      "en-US": "Ready Check",
+      "ja": "レディチェック",
+      "ko": "준비 확인"
+    }
+  },
+  {
+    "module_name": "RealItemIcon",
+    "title": "真实物品图标",
+    "aliases": [],
+    "titles": {
+      "en-US": "Actual Item Icons",
+      "ja": "実際のアイテムアイコン",
+      "ko": "실제 아이템 아이콘"
+    }
+  },
+  {
+    "module_name": "RetainerEntrustMemory",
+    "title": "雇员递交记忆",
+    "aliases": [],
+    "titles": {
+      "en-US": "Retainer Transfer Memory",
+      "ja": "リテイナーの受け渡し記憶",
+      "ko": "집사 전달 기억"
+    }
+  },
+  {
+    "module_name": "ShieldOnHP",
+    "title": "血条上显示盾值",
+    "aliases": [],
+    "titles": {
+      "en-US": "Show Shields on HP Bar",
+      "ja": "HP バーにバリア値を表示",
+      "ko": "HP 바에 보호막 수치 표시"
+    }
+  },
+  {
+    "module_name": "SkillMonitor",
+    "title": "技能监控",
+    "aliases": [],
+    "titles": {
+      "en-US": "Action Monitor",
+      "ja": "アクション監視",
+      "ko": "기술 감시"
+    }
+  },
+  {
+    "module_name": "SpecialScenarioExplorer",
+    "title": "自动特殊场景探索",
+    "aliases": [],
+    "titles": {
+      "en-US": "Auto Field Operations",
+      "ja": "特殊フィールド探索の自動化",
+      "ko": "특수 필드 탐사 자동 진행"
+    }
+  },
+  {
+    "module_name": "TellInDuty",
+    "title": "副本内悄悄话",
+    "aliases": [],
+    "titles": {
+      "en-US": "Tells inside Duties",
+      "ja": "コンテンツ内の Tell",
+      "ko": "임무 내 귓속말"
+    }
+  },
+  {
+    "module_name": "TimelineConverter",
+    "title": "时间轴转换器",
+    "aliases": [],
+    "titles": {
+      "en-US": "Timeline Converter",
+      "ja": "タイムライン変換",
+      "ko": "타임라인 변환기"
+    }
+  },
+  {
+    "module_name": "TreasureMap",
+    "title": "自动挖宝",
+    "aliases": [],
+    "titles": {
+      "en-US": "Auto Treasure Hunt",
+      "ja": "自動トレジャーハント",
+      "ko": "자동 보물찾기"
+    }
+  },
+  {
+    "module_name": "TreasureMapAssist",
+    "title": "挖宝辅助",
+    "aliases": [],
+    "titles": {
+      "en-US": "Treasure Hunt Assistance",
+      "ja": "トレジャーハント補助",
+      "ko": "보물찾기 도우미"
+    }
+  },
+  {
+    "module_name": "VoidBicolorShop",
+    "title": "虚空双色商店",
+    "aliases": [],
+    "titles": {
+      "en-US": "Remote Gemstone Shop",
+      "ja": "バイカラージェムショップの遠隔操作",
+      "ko": "원격 두 빛깔 보석 상점"
+    }
+  },
+  {
+    "module_name": "VoidFreeCompanyChest",
+    "title": "虚空部队箱",
+    "aliases": [],
+    "titles": {
+      "en-US": "Remote Company Chest",
+      "ja": "カンパニーチェストの遠隔操作",
+      "ko": "원격 부대 금고"
+    }
+  },
+  {
+    "module_name": "VoidGlamourStation",
+    "title": "虚空投影台/收藏柜",
+    "aliases": [],
+    "titles": {
+      "en-US": "Remote Glamour Dresser / Armoire",
+      "ja": "ドレッサー・愛蔵品キャビネットの遠隔操作",
+      "ko": "원격 환상의 옷장/추억의 보관함"
+    }
+  },
+  {
+    "module_name": "VoidMateriaTransmutation",
+    "title": "一键合成魔晶石",
+    "aliases": [],
+    "titles": {
+      "en-US": "Quick Materia Transmutation",
+      "ja": "マテリアの一括合成",
+      "ko": "마테리아 원클릭 합성"
+    }
+  },
+  {
+    "module_name": "VoidMoogleMail",
+    "title": "虚空莫古邮件",
+    "aliases": [],
+    "titles": {
+      "en-US": "Remote Moogle Mail",
+      "ja": "モグレターの遠隔操作",
+      "ko": "원격 모그레터"
+    }
+  },
+  {
+    "module_name": "VoidNPCShop",
+    "title": "虚空NPC商店",
+    "aliases": [],
+    "titles": {
+      "en-US": "Remote NPC Shop",
+      "ja": "NPC ショップの遠隔操作",
+      "ko": "NPC 원격 상점"
+    }
+  },
+  {
+    "module_name": "VoidPurchase",
+    "title": "虚空市场板",
+    "aliases": [],
+    "titles": {
+      "en-US": "Remote Market Board",
+      "ja": "マーケットボードの遠隔操作",
+      "ko": "원격 장터"
+    }
+  },
+  {
+    "module_name": "WidescreenCutscene",
+    "title": "宽屏过场",
+    "aliases": [],
+    "titles": {
+      "en-US": "Ultrawide Cutscenes",
+      "ja": "ワイド画面のカットシーン",
+      "ko": "와이드스크린 영상"
+    }
+  }
+]
